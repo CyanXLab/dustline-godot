@@ -1,0 +1,2097 @@
+{
+  "materials": [
+    {
+      "name": "models/player/ct_idf/ctm_idf_lowerbody",
+      "base": "4ea81d38cebfe1fb",
+      "normal": "bcead1bc1c20e12c",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/player/ct_idf/ctm_idf_head_varianta",
+      "base": "bf108a12a2882bc2",
+      "normal": "0f6ddfed39e04ed2",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/player/ct_idf/ctm_idf_upperbody",
+      "base": "96700b52d1bbe660",
+      "normal": "209016c498300a76",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/arms/w_ct_base_glove",
+      "base": "6df8a76c23827f89",
+      "normal": "f3087ac1e3364e62",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/player/custom_player/econ/head/tm_leet/tm_leet_v2_head_varianta",
+      "base": "9f69f3e4c98c6cd3",
+      "normal": "4c89ea2b3535392d",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/player/custom_player/econ/body/tm_leet/tm_leet_v2_lower_body_varianta",
+      "base": "7e800d730b7203e7",
+      "normal": "6052a425b41eee4c",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/player/custom_player/econ/body/tm_leet/tm_leet_v2_body_varianta",
+      "base": "57700540387fe9b2",
+      "normal": "f643c72dd61dfa59",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/arms/w_model_leet_arms_55",
+      "base": "82224aa59257ea85",
+      "normal": "4b00d82b7a63c5d3",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/arms/t_base_fingerless_glove",
+      "base": "acd0bfd6cb1767ff",
+      "normal": "2874799e195ce628",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/arms/ct_base_glove",
+      "base": "0a48ea7703417e73",
+      "normal": "b781e4a924aefde0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/arms/ct_arms_idf",
+      "base": "aa87b5ebff6f888a",
+      "normal": "5ed76bea8ba8e0d1",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/arms/v_model_base_arms",
+      "base": "2cb1ca9fc3a0356a",
+      "normal": "f5886616ed4ccb87",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/arms/t_base_fingerless_glove",
+      "base": "b0b4af151b9270a0",
+      "normal": "268361a40536f5fe",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_ak47/ak47",
+      "base": "43fc473d03c8ad8f",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_rif_ak47/ak47",
+      "base": "db757be6770cebca",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_m4a1/rif_m4a1",
+      "base": "e999731f50fc9b3e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_rif_m4a1/rif_m4a1",
+      "base": "0bfe105f71248335",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/snip_awp/awp",
+      "base": "eebdc59b7d78dcb5",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/shared/scope/scope_awp",
+      "base": "aacd3103f3f1fcab",
+      "normal": "1367c7b3134e1ed0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_snip_awp/awp",
+      "base": "424aeba9410e042d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_glock18/pist_glock18",
+      "base": "b5d6ff960f373936",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_glock18/pist_glock18",
+      "base": "b5d6ff960f373936",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_223/pist_223",
+      "base": "d91ee7046acbd26c",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_223/pist_223",
+      "base": "8bd220517f1991a0",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_ct/knife_ct",
+      "base": "86f1042390497c75",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_t/knife_t",
+      "base": "f6d7bb95a703e2c6",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_deagle/pist_deagle",
+      "base": "663f1051cd30e241",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_deagle/pist_deagle",
+      "base": "1b7285d0220d538d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_elite/m9a1",
+      "base": "5c39771f2cb3fbb8",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_elite/m9a1",
+      "base": "4e8c99e7fd0e8116",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_fiveseven/fiveseven",
+      "base": "bb4fd13ae181607e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_fiveseven/fiveseven",
+      "base": "4de43944bc76ab3b",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_aug/rif_aug",
+      "base": "e2d7d85b9e1ed802",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/shared/scope/scope_aug",
+      "base": "aacd3103f3f1fcab",
+      "normal": "1367c7b3134e1ed0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_aug/rif_aug_scope",
+      "base": "926296ae6406cc11",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/shared/scope/scope_lens_dirt",
+      "base": "7ce9476b1d4a661f",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_aug/rif_aug_scope_glass",
+      "base": "",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_rif_aug/rif_aug",
+      "base": "5a5ddb13d0925391",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_rif_aug/rif_aug_scope",
+      "base": "926296ae6406cc11",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_famas/rif_famas",
+      "base": "f64933b7d05c0feb",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_rif_famas/rif_famas",
+      "base": "51a289118caeafb8",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/snip_g3sg1/snip_g3sg1",
+      "base": "842ecb3dfd38390a",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/shared/scope/scope_g3sg1",
+      "base": "aacd3103f3f1fcab",
+      "normal": "1367c7b3134e1ed0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_snip_g3sg1/snip_g3sg1",
+      "base": "e7c4d5a272b9b844",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_galilar/rif_galilar",
+      "base": "1ddf548dc4dec75b",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_rif_galilar/rif_galilar",
+      "base": "9cfbb63e50a98208",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/mach_m249para/m249",
+      "base": "6f17a26a928168b4",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_mach_m249para/m249",
+      "base": "9762e3345f75d7c8",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/smg_mac10/smg_mac10_1",
+      "base": "0a812490abb4a2b5",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_smg_mac10/smg_mac10_1",
+      "base": "c0f6632817ceda42",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/smg_p90/smg_p90",
+      "base": "34e0d1b2891a4a8e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_smg_p90/smg_p90",
+      "base": "0fea2dc26a7b0c66",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/smg_mp5sd/smg_mp5sd",
+      "base": "4a4f1b2f12d5f630",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_smg_mp5sd/smg_mp5sd",
+      "base": "6c8f9ff5afa6e0c0",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/smg_ump45/smg_ump45",
+      "base": "75f80588e0a51a0e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_smg_ump45/smg_ump45",
+      "base": "6091b49f286ee605",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/shot_xm1014/shot_xm1014",
+      "base": "c9936a23750bcc49",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/shared/shells/shotgun/shell_shotgun",
+      "base": "8f0034806c8d8c54",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_shot_xm1014/shot_xm1014",
+      "base": "c9936a23750bcc49",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/smg_bizon/bizon",
+      "base": "831ea676453cab79",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_smg_bizon/bizon",
+      "base": "1d24182287a38431",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/shot_mag7/shot_mag7",
+      "base": "1299632fe44ad730",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_shot_mag7/shot_mag7",
+      "base": "dd09c9d8f7d9797f",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/mach_negev/mach_negev",
+      "base": "29bc41fbc0a5efba",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_mach_negev/mach_negev",
+      "base": "41c7c4785c466b80",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/shot_sawedoff/shot_sawedoff_01",
+      "base": "9064c5c63601fa6f",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_shot_sawedoff/shot_sawedoff_01",
+      "base": "9064c5c63601fa6f",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_tec9/pist_tec9",
+      "base": "6bc6598bdc2db27b",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_tec9/pist_tec9",
+      "base": "d7a19b0760708526",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/eq_taser/taser",
+      "base": "0852adbd9ac41b96",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_eq_taser/taser",
+      "base": "aa6cf88e27ce0029",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_hkp2000/pist_hkp2000",
+      "base": "2f60ef667e7b7e16",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_hkp2000/pist_hkp2000",
+      "base": "55cdaa3e8224efb0",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/smg_mp7/smg_mp7",
+      "base": "7d0b1be1ecda9a5e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_smg_mp7/smg_mp7",
+      "base": "bae8d01b92583b29",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/smg_mp9/smg_mp9",
+      "base": "130b576cc6ccab13",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_smg_mp9/smg_mp9",
+      "base": "a61cf4cd6b987e05",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/shot_nova/shot_nova",
+      "base": "a08cabec2263cfd2",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_shot_nova/shot_nova",
+      "base": "a08cabec2263cfd2",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_p250/p250",
+      "base": "e2b56ab112d4fb6e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_p250/p250",
+      "base": "7a927f19dad9ee9d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/snip_scar20/snip_scar20",
+      "base": "45d7fb6cdf1749a7",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/shared/scope/scope_scar20",
+      "base": "aacd3103f3f1fcab",
+      "normal": "1367c7b3134e1ed0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_snip_scar20/snip_scar20",
+      "base": "67d680387aad6b13",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_sg556/rif_sg556",
+      "base": "5a4bfa947e9977ae",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/shared/scope/scope_sg556",
+      "base": "aacd3103f3f1fcab",
+      "normal": "1367c7b3134e1ed0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_sg556/rif_sg556_scope_glass",
+      "base": "",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_rif_sg556/rif_sg556",
+      "base": "8d87a74add01856d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/snip_ssg08/snip_ssg08",
+      "base": "863d60506b510efe",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/snip_ssg08/snip_ssg08_scope",
+      "base": "335b1972ced08cac",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/snip_ssg08/glass",
+      "base": "",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_snip_ssg08/snip_ssg08",
+      "base": "51f0869f2946d64a",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_snip_ssg08/snip_ssg08_scope",
+      "base": "335b1972ced08cac",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/shared/scope/scope",
+      "base": "aacd3103f3f1fcab",
+      "normal": "1367c7b3134e1ed0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/rif_m4a1_s/rif_m4a1_s",
+      "base": "6112de8bdd652cf4",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_rif_m4a1_s/rif_m4a1_s",
+      "base": "31969afb7f7f85a8",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_cz_75/pist_cz_75",
+      "base": "43e14eba2cab65fe",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_cz_75/pist_cz_75",
+      "base": "bd1869a65bd41af2",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/pist_revolver/pist_revolver",
+      "base": "ac260f23f5ab4c03",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_pist_revolver/pist_revolver",
+      "base": "ac260f23f5ab4c03",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/eq_grenades/m84_flashbang_grenade",
+      "base": "2bfc7f5491d086ee",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_eq_grenades/m84_flashbang_grenade",
+      "base": "970a8152dbbbac86",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/eq_grenades/m67_grenade_01",
+      "base": "0364ab8bed20ab30",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_eq_grenades/m67_grenade_01",
+      "base": "5f5d7fdf3c902153",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/eq_grenades/smoke_grenade",
+      "base": "a741931e4b557ee4",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_eq_grenades/smoke_grenade",
+      "base": "9ec475d78320f3a3",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/eq_molotov/v_eq_molotov_bottle",
+      "base": "7516c3b4c7354f00",
+      "normal": "54c50ee594681d18",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/eq_molotov/v_eq_molotov_lighter_flame",
+      "base": "7516c3b4c7354f00",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/eq_molotov/v_eq_molotov_rag",
+      "base": "7516c3b4c7354f00",
+      "normal": "54c50ee594681d18",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_eq_molotov/w_eq_molotov_bottle",
+      "base": "851459ee693f17b9",
+      "normal": "66cd8124141971f4",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/eq_grenades/decoy_grenade",
+      "base": "a11efe6d4aeeba75",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_eq_grenades/decoy_grenade",
+      "base": "a6266a10043817ca",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/eq_grenades/incendiary_grenade",
+      "base": "94d3c54d98ba2e01",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_eq_grenades/incendiary_grenade",
+      "base": "369162eed042981d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/c4/c4",
+      "base": "e4666a670f042877",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/c4/c4_switch",
+      "base": "2988283f9d43c00c",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_c4/c4_light",
+      "base": "a126a97b7899bbad",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_c4/c4",
+      "base": "e4666a670f042877",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_c4/c4_switch",
+      "base": "2988283f9d43c00c",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_ct/knife_ct",
+      "base": "b8b480d3fd5f4fac",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_t/knife_t",
+      "base": "5217a8c84ba27234",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_t/gg/knife_t",
+      "base": "a5cfaa2003e99b60d29a",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_t/gg/knife_t",
+      "base": "d40c4f572ac76c735359",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_flip/ghost/knife_flip_ghost",
+      "base": "37b9a90064230bad",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_bayonet/knife_bayonet",
+      "base": "c2f9c5cf378af31b",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_bayonet/knife_bayonet",
+      "base": "dd649dc45cd8a03a",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_css/knife_css",
+      "base": "c1da9ab5c7b6540d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_css/knife_css",
+      "base": "f0a6cfbcbf6d0d28",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_flip/knife_flip",
+      "base": "3d5bca4f4308b8aa",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_flip/knife_flip",
+      "base": "8a4cdee42f80a316",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_gut/knife_gut",
+      "base": "c635307563dfb033",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_gut/knife_gut",
+      "base": "e21f8c3e2257b418",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_karam/karam",
+      "base": "42e73e708e6fdc89",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_karam/karam",
+      "base": "c24991924cabca9b",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_m9_bay/knife_m9_bay",
+      "base": "c5a898fb7a4cd3a4",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_m9_bay/knife_m9_bay",
+      "base": "4b0cd5a5aec23c02",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_tactical/knife_tactical",
+      "base": "ec4ec79c5627a1c1",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_tactical/knife_tactical",
+      "base": "80b421f8aa7c4e5a",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_falchion_advanced/knife_falchion_advanced",
+      "base": "e7175de97493512b",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_falchion_advanced/knife_falchion_advanced",
+      "base": "a53870897815387a",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_survival_bowie/knife_survival_bowie",
+      "base": "322542c2bf94ac76",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_survival_bowie/knife_survival_bowie",
+      "base": "22944c67c716eb43",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_butterfly/knife_butterfly",
+      "base": "949343833125d1bb",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_butterfly/knife_butterfly",
+      "base": "d91da05cd0270caa",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_push/knife_push",
+      "base": "231c8604699d8a67",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_push/knife_push",
+      "base": "727936eeb6f081fe",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_cord/knife_cord",
+      "base": "e116a7abc496a5b2",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_cord/knife_cord",
+      "base": "288780dde7e576d2",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_canis/knife_canis",
+      "base": "357af4b06a97aa16",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_canis/knife_canis",
+      "base": "b3867c9b60eca7a6",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_ursus/knife_ursus",
+      "base": "0e3c6d604e595829",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_ursus/knife_ursus",
+      "base": "993161440cd8964a",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_gypsy_jack/knife_gypsy_jack",
+      "base": "5414d042baf35bcf",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_gypsy_jack/knife_gypsy_jack",
+      "base": "30da3b2bf0c0f9c1",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_outdoor/knife_outdoor",
+      "base": "5083ed52d0951e43",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_outdoor/knife_outdoor",
+      "base": "ded35a4c1303304e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_stiletto/knife_stiletto",
+      "base": "4ca38d97bc87f024",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_stiletto/knife_stiletto",
+      "base": "a19287610bf79f55",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_widowmaker/knife_widowmaker",
+      "base": "d52bc4db9bcc00c2",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/w_models/w_knife_widowmaker/knife_widowmaker",
+      "base": "e43704bd44af3862",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/weapons/v_models/knife_skeleton/knife_skeleton",
+      "base": "17fc7bb110c070c9",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}

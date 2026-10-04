@@ -1,0 +1,3826 @@
+{
+  "materials": [
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_blend_plaster_white_02_wvt_patch",
+      "base": "649fec8371339d78",
+      "normal": "aed6f64dcbd6c77e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_metal_trim_01",
+      "base": "661eec497156f65a",
+      "normal": "c27bed96b28a7258",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_plaster_20b_wvt_patch",
+      "base": "5d94c002dd374650",
+      "normal": "5f88f1ccdd5e8cf6",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_blend_plaster_white_01b2_wvt_patch",
+      "base": "b29fd809752e4542",
+      "normal": "aed6f64dcbd6c77e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_plaster_20c_wvt_patch",
+      "base": "65d38ef37c1b2e5d",
+      "normal": "5f88f1ccdd5e8cf6",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_plaster_09_wvt_patch",
+      "base": "010e57058e15825b",
+      "normal": "aed6f64dcbd6c77e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_plaster_06_wvt_patch",
+      "base": "2d085b4f4ec62cba",
+      "normal": "ca3a5d14ef5b3e98",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_blend_floortile_03_wvt_patch",
+      "base": "071bcdfc44c142d3",
+      "normal": "d6a0d0c9067d0492",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/antenna_card",
+      "base": "651d1291c2a7b5e6",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_plaster_06c_wvt_patch",
+      "base": "9c80218332a70de7",
+      "normal": "ca3a5d14ef5b3e98",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/satellite_dish_card",
+      "base": "80db2b8863072aee",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_blend_floortile_01_wvt_patch",
+      "base": "e42809d4cddfba0a",
+      "normal": "27467da0ee350c50",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_breeze_block_01",
+      "base": "8a11b1408b3328bc",
+      "normal": "c9d2c3c169f536c4",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_wood_ceiling01_color",
+      "base": "d3a2c1a70c3861c3",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_sand_02_wvt_patch",
+      "base": "f50362f78d4fc3a0",
+      "normal": "0e530537e1205df3",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_02_wvt_patch",
+      "base": "2fd8d03280585491",
+      "normal": "71465a3296ce4f5a",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "maps/de_dust2/de_dust/hr_dust/hr_dust_plaster_18c_wvt_patch",
+      "base": "ad3db66ec95d3633",
+      "normal": "77af14b3d16c0368",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_soccerball/soccerball001_color",
+      "base": "b4b40e77fe701066",
+      "normal": "9058f70c88cdab58",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_tire/hr_dust_tire001_color",
+      "base": "2fd4d24d027e85d2",
+      "normal": "ed31230d6657bf41",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_satellite_dish/dust_satellite_dish_color",
+      "base": "77021322414a74f0",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_overlay_cards/crates_dishes_color",
+      "base": "fd56c209c0e466da",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/olive_branch_01",
+      "base": "6e36ac7293211372",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_roof_trim001_color",
+      "base": "8145ed297ad58b0c",
+      "normal": "b3b194e753eeb244",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_ac_unit/dust_ac_unit_color",
+      "base": "71809fe8f921a616",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/palm_treecard_01",
+      "base": "08fad862041f861b",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doorframes/dust_doorframes_01",
+      "base": "a92bf18904e16878",
+      "normal": "5e1dae5a4f7e4fdf",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_inferno/hr_i/inferno_skybox/skybox_trees_color",
+      "base": "192a55fdb4a32522",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_skybox/hr_dust_skybox_buildings_combined_01",
+      "base": "7ca80f4f465bc39d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_skybox/hr_dust_skybox_buildings_02",
+      "base": "7ca80f4f465bc39d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_skybox/hr_dust_ground_sand_skybox",
+      "base": "1570833b01ab8649",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_skybox/sky_dust2",
+      "base": "c54df75a58a0ef89",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_skybox/dome001_color",
+      "base": "57fa0f431ae758ab",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_windows/dust_windows_low",
+      "base": "db3ba7ba27c20b9d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_skybox/dust_kasbah_wood_crane",
+      "base": "5031e30e3bf9d350",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_block_lifter",
+      "base": "86cd3ba2912c4163",
+      "normal": "5ba93de122010e91",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_nuke/hr_nuke/nuke_skydome_001/nuke_clouds_002",
+      "base": "5dd4678f13250d54",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_skybox/dust_mudbrick_plaster_skybox",
+      "base": "c0e2c34759523bd2",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_windows/dust_windows_01",
+      "base": "d2fb051f0400a617",
+      "normal": "e70e4105a22cf221",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_inferno/hr_i/inferno_skybox/skybox_bushes_color",
+      "base": "ab05004af9f5eff1",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_windows/dust_window_frame_stone_01",
+      "base": "630a200d5330ea9c",
+      "normal": "26b86603f94b6f50",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_wires/dust_wires_01",
+      "base": "328cda217db214a6",
+      "normal": "610b90c9f9404919",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_wires/dust_wire_attachments_01",
+      "base": "74d0dfb3853517ef",
+      "normal": "a1d87cc2b6a40368",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_cart/dust_cart_color",
+      "base": "2ab94db06d593eff",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/palm_bark_01",
+      "base": "29100d525ce5bf17",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/palm_frond_01",
+      "base": "ba88a8e1487b468e",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_windows/dust_window_bars_metal_01b_alpha",
+      "base": "12b88139289c981c",
+      "normal": "5b0bb2d8ff312d8a",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_curbs_001/dust_curbs_001",
+      "base": "195eb8d386c9af3e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_curbs_001/dust_curbs_001_painted",
+      "base": "c0eed7d9c8d0d8a3",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_breeze_blocks/dust_breeze_blocks_01",
+      "base": "24dd60ef7b380096",
+      "normal": "99f250778875212b",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_windows/dust_window_frame_wood_01",
+      "base": "03010c359c7a2069",
+      "normal": "cb8a392c2bb80040",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_light_pole/dust_light_pole_color",
+      "base": "6325a7b81968450c",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/sumac_01",
+      "base": "0f9d51afae134dcb",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_wall_trim001_color",
+      "base": "da0562ac648bb1c2",
+      "normal": "63911a063a743665",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_cell_tower/dust_cell_tower_color",
+      "base": "1bee98616150c632",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_bracket001_color",
+      "base": "c99a1307653c645a",
+      "normal": "e027f2bc4946c0ac",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_rooftops/dust_rooftop_01_color",
+      "base": "c8d0c4038f7dd2c7",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_80x128_03",
+      "base": "a6c3e4d2a3bf4f39",
+      "normal": "63120c39435c1c5e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/street_lamp_01/street_lamp_01_color",
+      "base": "a32073bab0243c67",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doorframes/dust_doorframes_02",
+      "base": "6a7cb795fd0f6b8d",
+      "normal": "f6430fca3010cc62",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doorframes/dust_doorframes_03",
+      "base": "81051b92e3c0cd12",
+      "normal": "c532251459eae608",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_stairs001_color",
+      "base": "4d6333a0a2f2fa1f",
+      "normal": "12d14bcd67d28511",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_46x106_01",
+      "base": "6f892883a9f50744",
+      "normal": "2c5a7b9243977f3d",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_shelf/dust_shelf_01",
+      "base": "b77d03865f25c22b",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/power_pole_insulators/power_pole_insulators_color",
+      "base": "cbc5de3f1c431779",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_light_pole/dust_light_pole_02_color",
+      "base": "89ab38640a864674",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_metal_panels/dust_metal_panels_01",
+      "base": "b7e673a7681b910f",
+      "normal": "76f40c5c0614111e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_46x106_06b",
+      "base": "b627d1d88d35dc7b",
+      "normal": "2ca006ba67f4b009",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_arches/dust_arch_02_color",
+      "base": "c7d6141d3f8aed4a",
+      "normal": "273929b95edf75e0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_windows/dust_window_bars_metal_01b",
+      "base": "12b88139289c981c",
+      "normal": "5b0bb2d8ff312d8a",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_metal_panels/dust_metal_panels_rusty_alpha_01",
+      "base": "7ed1ae8a88381508",
+      "normal": "76f40c5c0614111e",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_80x128_02",
+      "base": "01d09820a82e397a",
+      "normal": "941648a1628646c0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/dust_weeds_01",
+      "base": "48adcad7b22531c4",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/street_lantern_01/street_lantern_01_color",
+      "base": "bf3ab3ca3db224c3",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_80x128_01",
+      "base": "9e5b03982784445e",
+      "normal": "d2f6110f848911c2",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_80x128_01_bars",
+      "base": "c38aaf57656258a1",
+      "normal": "e302a025a5cf634b",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/street_lamp_03/street_lamp_03_color",
+      "base": "e1e20997c173036b",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_awnings/dust_awning_fabric_frame_01",
+      "base": "bbbf75d146b9ae3b",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_awnings/dust_awning_fabric_01",
+      "base": "fd2cb08124c8023d",
+      "normal": "42cf0f1e7f6d520d",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_electric_panel/dust_electric_panel_cover_color",
+      "base": "c6fb06a0d89c35ae",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_electric_panel/dust_electric_panel_color",
+      "base": "7e865bde007e102d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_rollupdoor_frame_01",
+      "base": "76f699e0961b177a",
+      "normal": "0e13574d19e58d30",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_fences/dust_chainlink_fence_001",
+      "base": "47afe2269ca0a3fe",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_46x106_04",
+      "base": "f431584a965d7d29",
+      "normal": "68c48923512cade4",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_wall_braces/dust_wall_braces_color",
+      "base": "cc7ee9aa1e43e4b2",
+      "normal": "a1f37859a58c7298",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_wall_braces/dust_wall_braces_rope_color",
+      "base": "084464cc7d331b08",
+      "normal": "0906914610c0e20c",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/power_pole_insulators/power_pole_03_color",
+      "base": "79aa1d5a686bcd73",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_awnings/dust_awning_02",
+      "base": "a54954b643b07971",
+      "normal": "3903c20ef28dc65e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_curbs_001/dust_curbs_001_painted_notint",
+      "base": "c0eed7d9c8d0d8a3",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_01_painted_decals",
+      "base": "36e63964d67e9cf2",
+      "normal": "d4bee72d8ab97f87",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/wooden_fruit_crate_01_color",
+      "base": "530a39118de11a0e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_laundry_pole/dust_laundry_pole_01",
+      "base": "3fd2efeae6ba5da0",
+      "normal": "41d5767f1bb2ee76",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_patio_set/dust_patio_umbrella_color",
+      "base": "620af3c99141d2fb",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vents/dust_wall_vents_01",
+      "base": "1bc79f1b5b404ec6",
+      "normal": "803c48bdb5c95dc0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_patio_set/dust_patio_chair_color",
+      "base": "0ffea18153c4c0f4",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/sagebrush_01",
+      "base": "adc529c6a8062399",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag_02_color",
+      "base": "29ef2bdd712dc5f4",
+      "normal": "ab9227116e8dfcb2",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_container_color",
+      "base": "001c3edcdd0e9328",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_platform",
+      "base": "e95dd6dfc7773fb2",
+      "normal": "fd10077d5ba1749b",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_arches/dust_hotel_arch001_color",
+      "base": "bbed2a1af789aa23",
+      "normal": "2e577280015d0d51",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_01_painted_color",
+      "base": "36e63964d67e9cf2",
+      "normal": "d4bee72d8ab97f87",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_fences/dust_chainlink_fence_wire_001",
+      "base": "183b4b7b25f16d7b",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_fences/dust_chainlink_fence_cover_001",
+      "base": "b50d287163a37f66",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_windows/dust_window_bars_metal_01_alpha",
+      "base": "42dd9f21b7f7c91f",
+      "normal": "5b0bb2d8ff312d8a",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/zebra_grass_01",
+      "base": "13ee00e09818f39f",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/power_pole_insulators/power_pole_02_color",
+      "base": "0bb93690c5396bd7",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_tarp_01",
+      "base": "664b6427f125575b",
+      "normal": "4168a9bbf3b82f77",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/weeds_cressa_01",
+      "base": "ca071771580a27be",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/dust_weeds_02a",
+      "base": "ac3395335e244080",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_tarp_02",
+      "base": "0e297eb12b9b6b97",
+      "normal": "c80375d1c5c94eac",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_stairs002_color",
+      "base": "14e3cdb5fd3dd400",
+      "normal": "30ad461e212e6040",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/olive_bark_01",
+      "base": "a576440e687342f4",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_02_painted_decals",
+      "base": "b6a4c4c3bc423c5a",
+      "normal": "1c065e61701dafdd",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_signs/sign004_color",
+      "base": "89228c35e02b4c0f",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_signs/sign_bracket001_color",
+      "base": "2d568cc543bcd041",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_sidewalk01b_color",
+      "base": "37a67f9ce81b561f",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_pottery/dust_terracotta_03_color",
+      "base": "6fa099f60c39f56f",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_pottery/dust_terracotta_color",
+      "base": "ae097a9b747978fb",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_46x106_02",
+      "base": "a41ee92acf2180c5",
+      "normal": "41983f289ec26659",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/agave_plant_01",
+      "base": "30ba4c900384f22a",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_detruis_sacks/dust_detruis_sacks_02_color",
+      "base": "99cad809d025607f",
+      "normal": "1f91e1ac717618c0",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_pottery/dust_pottery_color",
+      "base": "b77f6adfec071a57",
+      "normal": "6b9c0840f4b2032a",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_46x106_03 ",
+      "base": "99286d1c05b329ad",
+      "normal": "b5cd1febc3f767a6",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_46x106_05",
+      "base": "3d37104b72f625ed",
+      "normal": "8df996f267df8b63",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_windows/dust_window_bars_metal_01",
+      "base": "42dd9f21b7f7c91f",
+      "normal": "5b0bb2d8ff312d8a",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/power_pole_insulators/power_pole_color",
+      "base": "caa4d5ce2a848952",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_cart/dust_cart_cloth_color",
+      "base": "f51de3ae3952a0a8",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/dust_hanging_light_02_off",
+      "base": "1efc870b0436d60e",
+      "normal": "0f0ab43ea4aa37e1",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/dust_trim_decoractive_01",
+      "base": "e5b8900f69bdbda2",
+      "normal": "bc94ed1e7d83ff16",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_broken_building/dust_broken_building_color",
+      "base": "e0fc323887b85ef8",
+      "normal": "dcea705223390d2e",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_nuke/hr_nuke/nuke_concrete_barrier/nuke_concrete_barrier_color",
+      "base": "f605e5f38f97a555",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_rooftop_ornament_color",
+      "base": "8145ed297ad58b0c",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_propane_cylinder/dust_propane_cylinder_02_color",
+      "base": "6e9178523a44fb04",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_stone_ground_02_color",
+      "base": "ffe9a077fd416d82",
+      "normal": "3baf4b492b39d8a2",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_signs/sign_streets001_color",
+      "base": "f107ae4cedb95b31",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/street_lantern_03/street_lantern_03_color",
+      "base": "6e74bbd2ea63909d",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_bicycle/dust_bicycle_color",
+      "base": "2802a7aed7b1caaf",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_stairs003_color",
+      "base": "dc2a4361a696a661",
+      "normal": "ad895b5411104dd8",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vehicles/dust_vehicle_glass_opaque_color",
+      "base": "161f46a416e03691",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_rooftrim_01",
+      "base": "928b3a9cca02dbf7",
+      "normal": "0c44684468ea5658",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_windows_01",
+      "base": "35d62f8dd65af7da",
+      "normal": "58d95d0fe46a5bf8",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_window_insets_01",
+      "base": "71066df7c1ff6182",
+      "normal": "d3da35b2680bba7a",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_kasbah_merlon002_color",
+      "base": "c1945af4385d1da6",
+      "normal": "65f579e9617749e7",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_windows/dust_window_frame_plaster_01",
+      "base": "630a200d5330ea9c",
+      "normal": "26b86603f94b6f50",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_tower_02_plaster",
+      "base": "3555baa30030db58",
+      "normal": "3ff5d28d7971696a",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_tower_02_edges",
+      "base": "1026d28ee27b7091",
+      "normal": "3e7332a2849cf121",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_planks",
+      "base": "cc7ee9aa1e43e4b2",
+      "normal": "a1f37859a58c7298",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_edges",
+      "base": "1026d28ee27b7091",
+      "normal": "3e7332a2849cf121",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vehicles/dust_300d_color",
+      "base": "e918047ee768f787",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vehicles/dust_300d_wheel_color",
+      "base": "1fa5c320ff1620d0",
+      "normal": "2847df16eb84651e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_kasbah_merlon003_color",
+      "base": "6297239297cd0804",
+      "normal": "affc062244b06667",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_02_wood_decals",
+      "base": "ac0d6986ff221657",
+      "normal": "1c065e61701dafdd",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_detruis_sacks/dust_detruis_sacks_color",
+      "base": "7f3d878f735565bb",
+      "normal": "bf8060b54fa7884f",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/yarrow_weed_01",
+      "base": "33c9ae78c1f55928",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vehicles/dust_300d_interior_color",
+      "base": "9dade8ba10676556",
+      "normal": "d1d79ebb0c3a3c96",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_small_rocks",
+      "base": "37db0e9de6fb6358",
+      "normal": "47d2b5e6097a4227",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_46x106_07",
+      "base": "2ff75ca8a3664e61",
+      "normal": "cf6a8d7326b7bdff",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_ladder",
+      "base": "c2e9b126572cb573",
+      "normal": "a5681d9fa5a4943e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_01_wood_color",
+      "base": "4383182dbe66ae1f",
+      "normal": "d4bee72d8ab97f87",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_mudbrick_piles",
+      "base": "9f80ddd580456d7b",
+      "normal": "e8ab038b6092a3b4",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_wood_pallet/dust_wood_pallet",
+      "base": "edd0fec8c2aa73ad",
+      "normal": "eef7ebd5560905fb",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_tarp_04",
+      "base": "37169de5de1d8286",
+      "normal": "6bbb6fb4671e2b1a",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/dust_ceiling_light_01",
+      "base": "387bdffe38e30478",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_wood_forms",
+      "base": "4bed3f73078e54f4",
+      "normal": "135ba29758a29502",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_construction/dust_construction_site_01",
+      "base": "fa07d81fd5e8df83",
+      "normal": "76244c87ece33a70",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_awnings/dust_awning_fabric_ripped_01",
+      "base": "5dce30ed97ba59d4",
+      "normal": "99abaac6594b65d9",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_02_wood_color",
+      "base": "ac0d6986ff221657",
+      "normal": "1c065e61701dafdd",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_arch_01",
+      "base": "084464cc7d331b08",
+      "normal": "0906914610c0e20c",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_tower_01_edges",
+      "base": "1026d28ee27b7091",
+      "normal": "3e7332a2849cf121",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_tower_01_plaster",
+      "base": "3555baa30030db58",
+      "normal": "3ff5d28d7971696a",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_01_wood_decals",
+      "base": "4383182dbe66ae1f",
+      "normal": "d4bee72d8ab97f87",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_signs/sign006_color",
+      "base": "369408406c51512d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_kasbah_arch003_color",
+      "base": "b53eb2e324898750",
+      "normal": "7840bf8e2dc0f2be",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_rock_wall",
+      "base": "bae78cc0edeca614",
+      "normal": "23f6d2e6e91e916e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/dust_weeds_02",
+      "base": "0a685a43f4a37a6f",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_flat_stones",
+      "base": "3d724f93d5c4174e",
+      "normal": "e93d17e3bfca0697",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_kasbah_merlon001_color",
+      "base": "8c9eee2adaa10b38",
+      "normal": "301ceebf7469cc09",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_metal_panels/dust_metal_panels_rusty_01",
+      "base": "7ed1ae8a88381508",
+      "normal": "76f40c5c0614111e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_hr_oil_drum/dust_hr_oil_drum_color",
+      "base": "911d405baa5d2b77",
+      "normal": "71d99bc052963556",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_kasbah_arch002_color",
+      "base": "47ab9cabe92931e4",
+      "normal": "0adb27fae4202e5e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/foliage/grape_leaves_01",
+      "base": "8625e2127f432051",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_kasbah_column001_color",
+      "base": "077f4e8e6fffcc34",
+      "normal": "d9f0e6fd07a0e745",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_signs/sign_directional001_color",
+      "base": "52e4aab1dc0dce9c",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vehicles/dust_r5_color",
+      "base": "24691339dbff32d6",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_electrical_powerbox/dust_electrical_powerbox_color",
+      "base": "169e045981313e21",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_rooftops/dust_rooftop_shingles_color",
+      "base": "44eb11ba4d4af3af",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_kasbah_ceiling",
+      "base": "54fc064cce4d1806",
+      "normal": "7eb3e696a35fd3aa",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_grain_basket/dust_grain_basket_color",
+      "base": "a6f594f0e37cb8b4",
+      "normal": "59a1abda5c761423",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/dust_hanging_light_02_on",
+      "base": "1efc870b0436d60e",
+      "normal": "0f0ab43ea4aa37e1",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_80x128_04",
+      "base": "41d8c800c341e460",
+      "normal": "4a088dbfbd91c69f",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_bombsite_gap",
+      "base": "6f74ee2fed9159ec",
+      "normal": "18a13d5bea345493",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_transition",
+      "base": "02455971aa5d1a9c",
+      "normal": "be7f42cb24d69c1b",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trap_door/dust_trap_door_color",
+      "base": "43371901759ccc67",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_80x128_04_frame",
+      "base": "e71f47b3d0c726d6",
+      "normal": "b0460d7a0598162c",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_access_panels/dust_access_panel_01_color",
+      "base": "99959daba5c149c1",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_access_panels/dust_access_panel_02_color",
+      "base": "c409a0751b2f3122",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/street_lantern_02/street_lantern_02_color",
+      "base": "e6bce80a1dc463be",
+      "normal": "2a60c31da378fb3e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_pottery/dust_terracotta_02_color",
+      "base": "09aa47f2849c19b5",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_kasbah_stairs001_color",
+      "base": "fddf57ea970abf5c",
+      "normal": "2f56cc1ee61bab41",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_stone_ground_01_color",
+      "base": "ca4f4e0cda0b5681",
+      "normal": "66ed89dbcf9f2518",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_tower_03_edges",
+      "base": "1026d28ee27b7091",
+      "normal": "3e7332a2849cf121",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_tower_03_plaster",
+      "base": "3555baa30030db58",
+      "normal": "3ff5d28d7971696a",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/dust_ornate_lanterns_01",
+      "base": "0677f2f6af136322",
+      "normal": "0a56c1ab2352c489",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_flour_sacks/dust_flour_sack_color",
+      "base": "71c26fc7472bad85",
+      "normal": "670fe99e4cd6680c",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_doors/dust_door_46x106_06",
+      "base": "1960f3117e414516",
+      "normal": "2ca006ba67f4b009",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_access_panels/dust_access_panel_03_color",
+      "base": "5dba86f3cb2dbf15",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_kasbah/dust_mudbrick_crumbling_wall",
+      "base": "2dca1b43a9c3075f",
+      "normal": "2f564f6e42dab4a1",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_shop_signs/dust_restaurant_sign_02_color",
+      "base": "e21de7410ab083b1",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_nuke/hr_nuke/foliage/weeds_flowers_01",
+      "base": "78edc191242e07ae",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster_signage",
+      "base": "c41909fe07dd6dd4",
+      "normal": "",
+      "second": "",
+      "cutout": true,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_garbage_container/dust_trash_bag_color",
+      "base": "93f0ae860d3335d6",
+      "normal": "a987302adf2a74ba",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_arches/dust_arch_01_pattern_color",
+      "base": "e5b8900f69bdbda2",
+      "normal": "bc94ed1e7d83ff16",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_arches/dust_arch_01_color",
+      "base": "8cf26fcd5729f616",
+      "normal": "7a027b6125bbd85e",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vehicles/dust_flatbed_truck_wheels_color",
+      "base": "aac35e23109d0f40",
+      "normal": "53eb12b078579ee5",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vehicles/dust_flatbed_truck_color",
+      "base": "3b916999382d57b2",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vehicles/dust_car_wreck_color",
+      "base": "3bab3c5f5f79eaeb",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_vehicles/dust_car_wreck_interior_color",
+      "base": "b08f95aabbc53b38",
+      "normal": "7c1ef655a2541896",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_kasbah_niche001_color",
+      "base": "39a1d57d6478a189",
+      "normal": "02e61a2179c2a414",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_crates/dust_shipping_crate_02_painted_color",
+      "base": "b6a4c4c3bc423c5a",
+      "normal": "1c065e61701dafdd",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_lights/street_lamp_02/street_lamp_02_color",
+      "base": "e93f5237b1f7aa1d",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_garbage_container/dust_garbage_dumpster_color",
+      "base": "6920d5c78f3fe3a5",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_arches/dust_arch_03",
+      "base": "fd49f97434983313",
+      "normal": "04fdcdb142b4fcb8",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_propane_cylinder/dust_propane_cylinder_01_color",
+      "base": "ba1f2570adf1c441",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_wall_braces/dust_wall_braces_arch_color",
+      "base": "fd49f97434983313",
+      "normal": "04fdcdb142b4fcb8",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_trims/hr_dust_kasbah_stairs002_color",
+      "base": "8638b95f5f65183f",
+      "normal": "25de7ca98cef11a8",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props_highway/metal_corrugated03b",
+      "base": "62cc95130ae1ecfa",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props_highway/metal_corrugated03a",
+      "base": "af185ffc130bdc0e",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "models/props/de_dust/hr_dust/dust_shop_signs/dust_shop_sign_02_color",
+      "base": "993d5dc87c996a29",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_plaster01_rough01",
+      "base": "60ca2109135a3ffc",
+      "normal": "b65fe24bba1c4bf7",
+      "second": "8ef2e7a0d618e959",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_plaster01b_rough01",
+      "base": "60ca2109135a3ffc",
+      "normal": "b65fe24bba1c4bf7",
+      "second": "deb480b9058f208c",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_plaster_white_01c",
+      "base": "9bd82da0b5e52a4b",
+      "normal": "aed6f64dcbd6c77e",
+      "second": "6ab0d34e272b10aa",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_plaster_white_02",
+      "base": "649fec8371339d78",
+      "normal": "aed6f64dcbd6c77e",
+      "second": "6ab0d34e272b10aa",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_06",
+      "base": "2d085b4f4ec62cba",
+      "normal": "ca3a5d14ef5b3e98",
+      "second": "02b4adf800c161f5",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_plaster_white_01b2",
+      "base": "b29fd809752e4542",
+      "normal": "aed6f64dcbd6c77e",
+      "second": "6ab0d34e272b10aa",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_15c",
+      "base": "6464c552650b386b",
+      "normal": "ca3a5d14ef5b3e98",
+      "second": "02b4adf800c161f5",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_18c",
+      "base": "ad3db66ec95d3633",
+      "normal": "77af14b3d16c0368",
+      "second": "cda3c69c15b19711",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_groundrough01-groundsmooth01",
+      "base": "2213469d58259b64",
+      "normal": "7ae565d14d844cbf",
+      "second": "a5933ce0b1183c0f",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_06b",
+      "base": "b72a17f9f0a2b450",
+      "normal": "ca3a5d14ef5b3e98",
+      "second": "02b4adf800c161f5",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_brick_ground_02",
+      "base": "3175b05488005fb2",
+      "normal": "27787c054c509af5",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_17b",
+      "base": "92c5c9267f847963",
+      "normal": "0a895461d01ce858",
+      "second": "95e7b9a91b9ffafc",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_17c",
+      "base": "83c5ab71a276d048",
+      "normal": "0a895461d01ce858",
+      "second": "95e7b9a91b9ffafc",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_03",
+      "base": "43d50095cbbf75ed",
+      "normal": "91fef99adb4d1eea",
+      "second": "e67483675dca6bc8",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_15",
+      "base": "4b7995cc94c18b99",
+      "normal": "ca3a5d14ef5b3e98",
+      "second": "02b4adf800c161f5",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_09",
+      "base": "010e57058e15825b",
+      "normal": "aed6f64dcbd6c77e",
+      "second": "6ab0d34e272b10aa",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_18",
+      "base": "a1502761b42d72a6",
+      "normal": "77af14b3d16c0368",
+      "second": "1cacb8a68227e993",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_15b",
+      "base": "59dbef45f4078ecd",
+      "normal": "ca3a5d14ef5b3e98",
+      "second": "02b4adf800c161f5",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_20c",
+      "base": "65d38ef37c1b2e5d",
+      "normal": "5f88f1ccdd5e8cf6",
+      "second": "6acfef75ff7a0649",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_20b",
+      "base": "5d94c002dd374650",
+      "normal": "5f88f1ccdd5e8cf6",
+      "second": "16598516b2186e86",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_19c",
+      "base": "9e77ee6793eac5c8",
+      "normal": "d15fc49649d8eaab",
+      "second": "3525ebfba276c7da",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_19b",
+      "base": "4b4ab2882d5ee0f2",
+      "normal": "d15fc49649d8eaab",
+      "second": "6b0055cde3747b9e",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_19",
+      "base": "5ebb8b2292aacb28",
+      "normal": "d15fc49649d8eaab",
+      "second": "3525ebfba276c7da",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_building_ornament_color",
+      "base": "98ddf6057e33f7de",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_sand_02",
+      "base": "f50362f78d4fc3a0",
+      "normal": "0e530537e1205df3",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_02",
+      "base": "2fd8d03280585491",
+      "normal": "71465a3296ce4f5a",
+      "second": "b90fbcf15fee2e0f",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_floortile_03",
+      "base": "071bcdfc44c142d3",
+      "normal": "d6a0d0c9067d0492",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_asphalt_06",
+      "base": "0c2b6bfbfb33ba86",
+      "normal": "41ac136e9fec00d3",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_17",
+      "base": "03cb83fd8dcbd07d",
+      "normal": "0a895461d01ce858",
+      "second": "95e7b9a91b9ffafc",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_12",
+      "base": "599e9bd869f354e1",
+      "normal": "035d694ec5d2f4d1",
+      "second": "599e9bd869f354e1",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_12b",
+      "base": "4e912edd9a68d3ed",
+      "normal": "035d694ec5d2f4d1",
+      "second": "4e912edd9a68d3ed",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_12c",
+      "base": "e83c8e2d0012ce58",
+      "normal": "035d694ec5d2f4d1",
+      "second": "599e9bd869f354e1",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_tile_03",
+      "base": "0ade4fcb33a0c892",
+      "normal": "c4c151c7591a5801",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_18b",
+      "base": "d53a1ec714651b83",
+      "normal": "77af14b3d16c0368",
+      "second": "e07416a29ef22c6d",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_floortile_01",
+      "base": "e42809d4cddfba0a",
+      "normal": "27467da0ee350c50",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_plaster01b_rough01_bounce",
+      "base": "60ca2109135a3ffc",
+      "normal": "b65fe24bba1c4bf7",
+      "second": "deb480b9058f208c",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_sand02_sand03",
+      "base": "f50362f78d4fc3a0",
+      "normal": "0e530537e1205df3",
+      "second": "a5933ce0b1183c0f",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_groundstone01-groundsmooth01",
+      "base": "e4bd61db1e2aa914",
+      "normal": "aa0ba12329fdf473",
+      "second": "a5933ce0b1183c0f",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_groundrough02-groundsmooth01",
+      "base": "99285b9d473822d0",
+      "normal": "5faf8ee5bb2d6a10",
+      "second": "a5933ce0b1183c0f",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_groundrough01-groundrough02",
+      "base": "99285b9d473822d0",
+      "normal": "5faf8ee5bb2d6a10",
+      "second": "2213469d58259b64",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_18b_bounce",
+      "base": "d53a1ec714651b83",
+      "normal": "77af14b3d16c0368",
+      "second": "e07416a29ef22c6d",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_18_bounce",
+      "base": "a1502761b42d72a6",
+      "normal": "77af14b3d16c0368",
+      "second": "1cacb8a68227e993",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_18c_bounce",
+      "base": "ad3db66ec95d3633",
+      "normal": "77af14b3d16c0368",
+      "second": "cda3c69c15b19711",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_stone_ground_01",
+      "base": "8824a73633b3fc97",
+      "normal": "3efb4d255b34f9db",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_plaster01_rough01_bounce",
+      "base": "60ca2109135a3ffc",
+      "normal": "b65fe24bba1c4bf7",
+      "second": "8ef2e7a0d618e959",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_groundstone01-groundrough01",
+      "base": "e4bd61db1e2aa914",
+      "normal": "aa0ba12329fdf473",
+      "second": "2213469d58259b64",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_groundrough01-groundsweeds01",
+      "base": "2213469d58259b64",
+      "normal": "7ae565d14d844cbf",
+      "second": "dab8c0cc618ff4a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_mudbrick_wall_plaster_smooth_01",
+      "base": "27c04c600a742c22",
+      "normal": "a898aa7942baae02",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_07c",
+      "base": "973b8769787cfaac",
+      "normal": "",
+      "second": "5ebb8b2292aacb28",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_09c",
+      "base": "fdf448dc0fee022a",
+      "normal": "aed6f64dcbd6c77e",
+      "second": "6ab0d34e272b10aa",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_09b",
+      "base": "0e3b421d26ea3408",
+      "normal": "aed6f64dcbd6c77e",
+      "second": "6ab0d34e272b10aa",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_19_bounce",
+      "base": "5ebb8b2292aacb28",
+      "normal": "d15fc49649d8eaab",
+      "second": "3525ebfba276c7da",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_19b_bounce",
+      "base": "4b4ab2882d5ee0f2",
+      "normal": "d15fc49649d8eaab",
+      "second": "6b0055cde3747b9e",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_19c_bounce",
+      "base": "9e77ee6793eac5c8",
+      "normal": "d15fc49649d8eaab",
+      "second": "3525ebfba276c7da",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_06c",
+      "base": "9c80218332a70de7",
+      "normal": "ca3a5d14ef5b3e98",
+      "second": "02b4adf800c161f5",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_11b",
+      "base": "93ed3188d9cbbbcc",
+      "normal": "0a895461d01ce858",
+      "second": "02b4adf800c161f5",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_20",
+      "base": "fc467a7d3d7faf49",
+      "normal": "5f88f1ccdd5e8cf6",
+      "second": "7873c07dc0365d9f",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_13b",
+      "base": "7932364bc0a38fa0",
+      "normal": "0a895461d01ce858",
+      "second": "02b4adf800c161f5",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_plaster_15b2",
+      "base": "c2f5bf97f48a3fdb",
+      "normal": "ca3a5d14ef5b3e98",
+      "second": "02b4adf800c161f5",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_tile_02",
+      "base": "566d13ede163b767",
+      "normal": "",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_rollupdoor_metal_01",
+      "base": "134bcec8d900fa6b",
+      "normal": "eb0dd1b6d1ce932b",
+      "second": "a5171ee4af3b58df",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_brick_ground_04",
+      "base": "f080a87fa0d802b0",
+      "normal": "3d1cf515c82826a6",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_tile_01",
+      "base": "3640bfe77c240e5d",
+      "normal": "e8515f340852ffdf",
+      "second": "f50362f78d4fc3a0",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_concrete_04",
+      "base": "46ae16f2a43a81fd",
+      "normal": "",
+      "second": "46ae16f2a43a81fd",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_concrete_02",
+      "base": "b94c22d2e4137e74",
+      "normal": "",
+      "second": "680a40ff2dbb7ab3",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "de_dust/hr_dust/hr_dust_blend_asphalt_07",
+      "base": "0c2b6bfbfb33ba86",
+      "normal": "41ac136e9fec00d3",
+      "second": "0f2421dce9a2a827",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "skybox/hr_dust_ground_sand_skybox",
+      "base": "1570833b01ab8649",
+      "normal": "",
+      "second": "",
+      "cutout": false,
+      "color": [
+        1,
+        1,
+        1,
+        1
+      ]
+    }
+  ]
+}

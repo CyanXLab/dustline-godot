@@ -1,0 +1,92 @@
+{
+ "shot_rifle": [
+  "shot_rifle_00.wav",
+  "shot_rifle_01.wav",
+  "shot_rifle_02.wav",
+  "shot_rifle_03.wav",
+  "shot_rifle_04.wav",
+  "shot_rifle_05.wav",
+  "shot_rifle_06.wav",
+  "shot_rifle_07.wav",
+  "shot_rifle_08.wav",
+  "shot_rifle_09.wav",
+  "shot_rifle_10.wav",
+  "shot_rifle_11.wav"
+ ],
+ "explosion": [
+  "explosion_00.wav",
+  "explosion_01.wav",
+  "explosion_02.wav",
+  "explosion_03.wav",
+  "explosion_04.wav",
+  "explosion_05.wav"
+ ],
+ "step": [
+  "step_00.wav",
+  "step_01.wav",
+  "step_02.wav",
+  "step_03.wav",
+  "step_04.wav",
+  "step_05.wav",
+  "step_06.wav",
+  "step_07.wav",
+  "step_08.wav",
+  "step_09.wav"
+ ],
+ "ric": [
+  "ric_00.wav",
+  "ric_01.wav",
+  "ric_02.wav",
+  "ric_03.wav",
+  "ric_04.wav",
+  "ric_05.wav",
+  "ric_06.wav",
+  "ric_07.wav"
+ ],
+ "hit": [
+  "hit_00.wav",
+  "hit_01.wav",
+  "hit_02.wav",
+  "hit_03.wav",
+  "hit_04.wav",
+  "hit_05.wav",
+  "hit_06.wav",
+  "hit_07.wav"
+ ],
+ "ui": [
+  "ui_00.wav",
+  "ui_01.wav",
+  "ui_02.wav",
+  "ui_03.wav",
+  "ui_04.wav",
+  "ui_05.wav",
+  "ui_06.wav",
+  "ui_07.wav",
+  "ui_08.wav",
+  "ui_09.wav"
+ ],
+ "ambient": [
+  "ambient_00.wav",
+  "ambient_01.wav",
+  "ambient_02.wav",
+  "ambient_03.wav"
+ ],
+ "misc": [
+  "misc_00.wav",
+  "misc_01.wav",
+  "misc_02.wav",
+  "misc_03.wav",
+  "misc_04.wav",
+  "misc_05.wav",
+  "misc_06.wav",
+  "misc_07.wav",
+  "misc_08.wav",
+  "misc_09.wav",
+  "misc_10.wav",
+  "misc_11.wav",
+  "misc_12.wav",
+  "misc_13.wav",
+  "misc_14.wav",
+  "misc_15.wav"
+ ]
+}

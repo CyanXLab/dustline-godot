@@ -1,0 +1,2175 @@
+{
+  "build": 12426195,
+  "models": [
+    {
+      "model": "ct_idf",
+      "groups": [
+        {
+          "name": "rifle_aim_idle",
+          "clips": [
+            "rifle_aim_idle_aim_uvert_right",
+            "rifle_aim_idle_aim_uvert_center",
+            "rifle_aim_idle_aim_uvert_left",
+            "rifle_aim_idle_aim_mid_right",
+            "rifle_aim_idle_aim_mid_center",
+            "rifle_aim_idle_aim_mid_left",
+            "rifle_aim_idle_aim_dvert_right",
+            "rifle_aim_idle_aim_dvert_center",
+            "rifle_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "rifle_aim_walk",
+          "clips": [
+            "rifle_aim_walk_aim_uvert_right",
+            "rifle_aim_walk_aim_uvert_center",
+            "rifle_aim_walk_aim_uvert_left",
+            "rifle_aim_walk_aim_mid_right",
+            "rifle_aim_walk_aim_mid_center",
+            "rifle_aim_walk_aim_mid_left",
+            "rifle_aim_walk_aim_dvert_right",
+            "rifle_aim_walk_aim_dvert_center",
+            "rifle_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "rifle_aim_run",
+          "clips": [
+            "rifle_aim_run_aim_uvert_right",
+            "rifle_aim_run_aim_uvert_center",
+            "rifle_aim_run_aim_uvert_left",
+            "rifle_aim_run_aim_mid_right",
+            "rifle_aim_run_aim_mid_center",
+            "rifle_aim_run_aim_mid_left",
+            "rifle_aim_run_aim_dvert_right",
+            "rifle_aim_run_aim_dvert_center",
+            "rifle_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "rifle_aim_crouch_idle",
+          "clips": [
+            "rifle_aim_crouch_idle_aim_uvert_right",
+            "rifle_aim_crouch_idle_aim_uvert_center",
+            "rifle_aim_crouch_idle_aim_uvert_left",
+            "rifle_aim_crouch_idle_aim_mid_right",
+            "rifle_aim_crouch_idle_aim_mid_center",
+            "rifle_aim_crouch_idle_aim_mid_left",
+            "rifle_aim_crouch_idle_aim_dvert_right",
+            "rifle_aim_crouch_idle_aim_dvert_center",
+            "rifle_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "rifle_aim_crouch_moving",
+          "clips": [
+            "rifle_aim_crouch_moving_aim_uvert_right",
+            "rifle_aim_crouch_moving_aim_uvert_center",
+            "rifle_aim_crouch_moving_aim_uvert_left",
+            "rifle_aim_crouch_moving_aim_mid_right",
+            "rifle_aim_crouch_moving_aim_mid_center",
+            "rifle_aim_crouch_moving_aim_mid_left",
+            "rifle_aim_crouch_moving_aim_dvert_right",
+            "rifle_aim_crouch_moving_aim_dvert_center",
+            "rifle_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_idle",
+          "clips": [
+            "pistol_aim_idle_aim_uvert_right",
+            "pistol_aim_idle_aim_uvert_center",
+            "pistol_aim_idle_aim_uvert_left",
+            "pistol_aim_idle_aim_mid_right",
+            "pistol_aim_idle_aim_mid_center",
+            "pistol_aim_idle_aim_mid_left",
+            "pistol_aim_idle_aim_dvert_right",
+            "pistol_aim_idle_aim_dvert_center",
+            "pistol_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_walk",
+          "clips": [
+            "pistol_aim_walk_aim_uvert_right",
+            "pistol_aim_walk_aim_uvert_center",
+            "pistol_aim_walk_aim_uvert_left",
+            "pistol_aim_walk_aim_mid_right",
+            "pistol_aim_walk_aim_mid_center",
+            "pistol_aim_walk_aim_mid_left",
+            "pistol_aim_walk_aim_dvert_right",
+            "pistol_aim_walk_aim_dvert_center",
+            "pistol_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_run",
+          "clips": [
+            "pistol_aim_run_aim_uvert_right",
+            "pistol_aim_run_aim_uvert_center",
+            "pistol_aim_run_aim_uvert_left",
+            "pistol_aim_run_aim_mid_right",
+            "pistol_aim_run_aim_mid_center",
+            "pistol_aim_run_aim_mid_left",
+            "pistol_aim_run_aim_dvert_right",
+            "pistol_aim_run_aim_dvert_center",
+            "pistol_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_crouch_idle",
+          "clips": [
+            "pistol_aim_crouch_idle_aim_uvert_right",
+            "pistol_aim_crouch_idle_aim_uvert_center",
+            "pistol_aim_crouch_idle_aim_uvert_left",
+            "pistol_aim_crouch_idle_aim_mid_right",
+            "pistol_aim_crouch_idle_aim_mid_center",
+            "pistol_aim_crouch_idle_aim_mid_left",
+            "pistol_aim_crouch_idle_aim_dvert_right",
+            "pistol_aim_crouch_idle_aim_dvert_center",
+            "pistol_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_crouch_moving",
+          "clips": [
+            "pistol_aim_crouch_moving_aim_uvert_right",
+            "pistol_aim_crouch_moving_aim_uvert_center",
+            "pistol_aim_crouch_moving_aim_uvert_left",
+            "pistol_aim_crouch_moving_aim_mid_right",
+            "pistol_aim_crouch_moving_aim_mid_center",
+            "pistol_aim_crouch_moving_aim_mid_left",
+            "pistol_aim_crouch_moving_aim_dvert_right",
+            "pistol_aim_crouch_moving_aim_dvert_center",
+            "pistol_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_idle",
+          "clips": [
+            "sniper_aim_idle_aim_uvert_right",
+            "sniper_aim_idle_aim_uvert_center",
+            "sniper_aim_idle_aim_uvert_left",
+            "sniper_aim_idle_aim_mid_right",
+            "sniper_aim_idle_aim_mid_center",
+            "sniper_aim_idle_aim_mid_left",
+            "sniper_aim_idle_aim_dvert_right",
+            "sniper_aim_idle_aim_dvert_center",
+            "sniper_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_walk",
+          "clips": [
+            "sniper_aim_walk_aim_uvert_right",
+            "sniper_aim_walk_aim_uvert_center",
+            "sniper_aim_walk_aim_uvert_left",
+            "sniper_aim_walk_aim_mid_right",
+            "sniper_aim_walk_aim_mid_center",
+            "sniper_aim_walk_aim_mid_left",
+            "sniper_aim_walk_aim_dvert_right",
+            "sniper_aim_walk_aim_dvert_center",
+            "sniper_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_run",
+          "clips": [
+            "sniper_aim_run_aim_uvert_right",
+            "sniper_aim_run_aim_uvert_center",
+            "sniper_aim_run_aim_uvert_left",
+            "sniper_aim_run_aim_mid_right",
+            "sniper_aim_run_aim_mid_center",
+            "sniper_aim_run_aim_mid_left",
+            "sniper_aim_run_aim_dvert_right",
+            "sniper_aim_run_aim_dvert_center",
+            "sniper_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_crouch_idle",
+          "clips": [
+            "sniper_aim_crouch_idle_aim_uvert_right",
+            "sniper_aim_crouch_idle_aim_uvert_center",
+            "sniper_aim_crouch_idle_aim_uvert_left",
+            "sniper_aim_crouch_idle_aim_mid_right",
+            "sniper_aim_crouch_idle_aim_mid_center",
+            "sniper_aim_crouch_idle_aim_mid_left",
+            "sniper_aim_crouch_idle_aim_dvert_right",
+            "sniper_aim_crouch_idle_aim_dvert_center",
+            "sniper_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_crouch_moving",
+          "clips": [
+            "sniper_aim_crouch_moving_aim_uvert_right",
+            "sniper_aim_crouch_moving_aim_uvert_center",
+            "sniper_aim_crouch_moving_aim_uvert_left",
+            "sniper_aim_crouch_moving_aim_mid_right",
+            "sniper_aim_crouch_moving_aim_mid_center",
+            "sniper_aim_crouch_moving_aim_mid_left",
+            "sniper_aim_crouch_moving_aim_dvert_right",
+            "sniper_aim_crouch_moving_aim_dvert_center",
+            "sniper_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_idle",
+          "clips": [
+            "shotgun_aim_idle_aim_uvert_right",
+            "shotgun_aim_idle_aim_uvert_center",
+            "shotgun_aim_idle_aim_uvert_left",
+            "shotgun_aim_idle_aim_mid_right",
+            "shotgun_aim_idle_aim_mid_center",
+            "shotgun_aim_idle_aim_mid_left",
+            "shotgun_aim_idle_aim_dvert_right",
+            "shotgun_aim_idle_aim_dvert_center",
+            "shotgun_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_walk",
+          "clips": [
+            "shotgun_aim_walk_aim_uvert_right",
+            "shotgun_aim_walk_aim_uvert_center",
+            "shotgun_aim_walk_aim_uvert_left",
+            "shotgun_aim_walk_aim_mid_right",
+            "shotgun_aim_walk_aim_mid_center",
+            "shotgun_aim_walk_aim_mid_left",
+            "shotgun_aim_walk_aim_dvert_right",
+            "shotgun_aim_walk_aim_dvert_center",
+            "shotgun_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_run",
+          "clips": [
+            "shotgun_aim_run_aim_uvert_right",
+            "shotgun_aim_run_aim_uvert_center",
+            "shotgun_aim_run_aim_uvert_left",
+            "shotgun_aim_run_aim_mid_right",
+            "shotgun_aim_run_aim_mid_center",
+            "shotgun_aim_run_aim_mid_left",
+            "shotgun_aim_run_aim_dvert_right",
+            "shotgun_aim_run_aim_dvert_center",
+            "shotgun_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_crouch_idle",
+          "clips": [
+            "shotgun_aim_crouch_idle_aim_uvert_right",
+            "shotgun_aim_crouch_idle_aim_uvert_center",
+            "shotgun_aim_crouch_idle_aim_uvert_left",
+            "shotgun_aim_crouch_idle_aim_mid_right",
+            "shotgun_aim_crouch_idle_aim_mid_center",
+            "shotgun_aim_crouch_idle_aim_mid_left",
+            "shotgun_aim_crouch_idle_aim_dvert_right",
+            "shotgun_aim_crouch_idle_aim_dvert_center",
+            "shotgun_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_crouch_moving",
+          "clips": [
+            "shotgun_aim_crouch_moving_aim_uvert_right",
+            "shotgun_aim_crouch_moving_aim_uvert_center",
+            "shotgun_aim_crouch_moving_aim_uvert_left",
+            "shotgun_aim_crouch_moving_aim_mid_right",
+            "shotgun_aim_crouch_moving_aim_mid_center",
+            "shotgun_aim_crouch_moving_aim_mid_left",
+            "shotgun_aim_crouch_moving_aim_dvert_right",
+            "shotgun_aim_crouch_moving_aim_dvert_center",
+            "shotgun_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_idle",
+          "clips": [
+            "smg_aim_idle_aim_uvert_right",
+            "smg_aim_idle_aim_uvert_center",
+            "smg_aim_idle_aim_uvert_left",
+            "smg_aim_idle_aim_mid_right",
+            "smg_aim_idle_aim_mid_center",
+            "smg_aim_idle_aim_mid_left",
+            "smg_aim_idle_aim_dvert_right",
+            "smg_aim_idle_aim_dvert_center",
+            "smg_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_walk",
+          "clips": [
+            "smg_aim_walk_aim_uvert_right",
+            "smg_aim_walk_aim_uvert_center",
+            "smg_aim_walk_aim_uvert_left",
+            "smg_aim_walk_aim_mid_right",
+            "smg_aim_walk_aim_mid_center",
+            "smg_aim_walk_aim_mid_left",
+            "smg_aim_walk_aim_dvert_right",
+            "smg_aim_walk_aim_dvert_center",
+            "smg_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_run",
+          "clips": [
+            "smg_aim_run_aim_uvert_right",
+            "smg_aim_run_aim_uvert_center",
+            "smg_aim_run_aim_uvert_left",
+            "smg_aim_run_aim_mid_right",
+            "smg_aim_run_aim_mid_center",
+            "smg_aim_run_aim_mid_left",
+            "smg_aim_run_aim_dvert_right",
+            "smg_aim_run_aim_dvert_center",
+            "smg_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_crouch_idle",
+          "clips": [
+            "smg_aim_crouch_idle_aim_uvert_right",
+            "smg_aim_crouch_idle_aim_uvert_center",
+            "smg_aim_crouch_idle_aim_uvert_left",
+            "smg_aim_crouch_idle_aim_mid_right",
+            "smg_aim_crouch_idle_aim_mid_center",
+            "smg_aim_crouch_idle_aim_mid_left",
+            "smg_aim_crouch_idle_aim_dvert_right",
+            "smg_aim_crouch_idle_aim_dvert_center",
+            "smg_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_crouch_moving",
+          "clips": [
+            "smg_aim_crouch_moving_aim_uvert_right",
+            "smg_aim_crouch_moving_aim_uvert_center",
+            "smg_aim_crouch_moving_aim_uvert_left",
+            "smg_aim_crouch_moving_aim_mid_right",
+            "smg_aim_crouch_moving_aim_mid_center",
+            "smg_aim_crouch_moving_aim_mid_left",
+            "smg_aim_crouch_moving_aim_dvert_right",
+            "smg_aim_crouch_moving_aim_dvert_center",
+            "smg_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_idle",
+          "clips": [
+            "heavy_aim_idle_aim_uvert_right",
+            "heavy_aim_idle_aim_uvert_center",
+            "heavy_aim_idle_aim_uvert_left",
+            "heavy_aim_idle_aim_mid_right",
+            "heavy_aim_idle_aim_mid_center",
+            "heavy_aim_idle_aim_mid_left",
+            "heavy_aim_idle_aim_dvert_right",
+            "heavy_aim_idle_aim_dvert_center",
+            "heavy_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_walk",
+          "clips": [
+            "heavy_aim_walk_aim_uvert_right",
+            "heavy_aim_walk_aim_uvert_center",
+            "heavy_aim_walk_aim_uvert_left",
+            "heavy_aim_walk_aim_mid_right",
+            "heavy_aim_walk_aim_mid_center",
+            "heavy_aim_walk_aim_mid_left",
+            "heavy_aim_walk_aim_dvert_right",
+            "heavy_aim_walk_aim_dvert_center",
+            "heavy_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_run",
+          "clips": [
+            "heavy_aim_run_aim_uvert_right",
+            "heavy_aim_run_aim_uvert_center",
+            "heavy_aim_run_aim_uvert_left",
+            "heavy_aim_run_aim_mid_right",
+            "heavy_aim_run_aim_mid_center",
+            "heavy_aim_run_aim_mid_left",
+            "heavy_aim_run_aim_dvert_right",
+            "heavy_aim_run_aim_dvert_center",
+            "heavy_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_crouch_idle",
+          "clips": [
+            "heavy_aim_crouch_idle_aim_uvert_right",
+            "heavy_aim_crouch_idle_aim_uvert_center",
+            "heavy_aim_crouch_idle_aim_uvert_left",
+            "heavy_aim_crouch_idle_aim_mid_right",
+            "heavy_aim_crouch_idle_aim_mid_center",
+            "heavy_aim_crouch_idle_aim_mid_left",
+            "heavy_aim_crouch_idle_aim_dvert_right",
+            "heavy_aim_crouch_idle_aim_dvert_center",
+            "heavy_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_crouch_moving",
+          "clips": [
+            "heavy_aim_crouch_moving_aim_uvert_right",
+            "heavy_aim_crouch_moving_aim_uvert_center",
+            "heavy_aim_crouch_moving_aim_uvert_left",
+            "heavy_aim_crouch_moving_aim_mid_right",
+            "heavy_aim_crouch_moving_aim_mid_center",
+            "heavy_aim_crouch_moving_aim_mid_left",
+            "heavy_aim_crouch_moving_aim_dvert_right",
+            "heavy_aim_crouch_moving_aim_dvert_center",
+            "heavy_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_idle",
+          "clips": [
+            "knife_aim_idle_aim_uvert_right",
+            "knife_aim_idle_aim_uvert_center",
+            "knife_aim_idle_aim_uvert_left",
+            "knife_aim_idle_aim_mid_right",
+            "knife_aim_idle_aim_mid_center",
+            "knife_aim_idle_aim_mid_left",
+            "knife_aim_idle_aim_dvert_right",
+            "knife_aim_idle_aim_dvert_center",
+            "knife_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_walk",
+          "clips": [
+            "knife_aim_walk_aim_uvert_right",
+            "knife_aim_walk_aim_uvert_center",
+            "knife_aim_walk_aim_uvert_left",
+            "knife_aim_walk_aim_mid_right",
+            "knife_aim_walk_aim_mid_center",
+            "knife_aim_walk_aim_mid_left",
+            "knife_aim_walk_aim_dvert_right",
+            "knife_aim_walk_aim_dvert_center",
+            "knife_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_run",
+          "clips": [
+            "knife_aim_run_aim_uvert_right",
+            "knife_aim_run_aim_uvert_center",
+            "knife_aim_run_aim_uvert_left",
+            "knife_aim_run_aim_mid_right",
+            "knife_aim_run_aim_mid_center",
+            "knife_aim_run_aim_mid_left",
+            "knife_aim_run_aim_dvert_right",
+            "knife_aim_run_aim_dvert_center",
+            "knife_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_crouch_idle",
+          "clips": [
+            "knife_aim_crouch_idle_aim_uvert_right",
+            "knife_aim_crouch_idle_aim_uvert_center",
+            "knife_aim_crouch_idle_aim_uvert_left",
+            "knife_aim_crouch_idle_aim_mid_right",
+            "knife_aim_crouch_idle_aim_mid_center",
+            "knife_aim_crouch_idle_aim_mid_left",
+            "knife_aim_crouch_idle_aim_dvert_right",
+            "knife_aim_crouch_idle_aim_dvert_center",
+            "knife_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_crouch_moving",
+          "clips": [
+            "knife_aim_crouch_moving_aim_uvert_right",
+            "knife_aim_crouch_moving_aim_uvert_center",
+            "knife_aim_crouch_moving_aim_uvert_left",
+            "knife_aim_crouch_moving_aim_mid_right",
+            "knife_aim_crouch_moving_aim_mid_center",
+            "knife_aim_crouch_moving_aim_mid_left",
+            "knife_aim_crouch_moving_aim_dvert_right",
+            "knife_aim_crouch_moving_aim_dvert_center",
+            "knife_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_idle",
+          "clips": [
+            "grenade_aim_idle_aim_uvert_right",
+            "grenade_aim_idle_aim_uvert_center",
+            "grenade_aim_idle_aim_uvert_left",
+            "grenade_aim_idle_aim_mid_right",
+            "grenade_aim_idle_aim_mid_center",
+            "grenade_aim_idle_aim_mid_left",
+            "grenade_aim_idle_aim_dvert_right",
+            "grenade_aim_idle_aim_dvert_center",
+            "grenade_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_walk",
+          "clips": [
+            "grenade_aim_walk_aim_uvert_right",
+            "grenade_aim_walk_aim_uvert_center",
+            "grenade_aim_walk_aim_uvert_left",
+            "grenade_aim_walk_aim_mid_right",
+            "grenade_aim_walk_aim_mid_center",
+            "grenade_aim_walk_aim_mid_left",
+            "grenade_aim_walk_aim_dvert_right",
+            "grenade_aim_walk_aim_dvert_center",
+            "grenade_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_run",
+          "clips": [
+            "grenade_aim_run_aim_uvert_right",
+            "grenade_aim_run_aim_uvert_center",
+            "grenade_aim_run_aim_uvert_left",
+            "grenade_aim_run_aim_mid_right",
+            "grenade_aim_run_aim_mid_center",
+            "grenade_aim_run_aim_mid_left",
+            "grenade_aim_run_aim_dvert_right",
+            "grenade_aim_run_aim_dvert_center",
+            "grenade_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_crouch_idle",
+          "clips": [
+            "grenade_aim_crouch_idle_aim_uvert_right",
+            "grenade_aim_crouch_idle_aim_uvert_center",
+            "grenade_aim_crouch_idle_aim_uvert_left",
+            "grenade_aim_crouch_idle_aim_mid_right",
+            "grenade_aim_crouch_idle_aim_mid_center",
+            "grenade_aim_crouch_idle_aim_mid_left",
+            "grenade_aim_crouch_idle_aim_dvert_right",
+            "grenade_aim_crouch_idle_aim_dvert_center",
+            "grenade_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_crouch_moving",
+          "clips": [
+            "grenade_aim_crouch_moving_aim_uvert_right",
+            "grenade_aim_crouch_moving_aim_uvert_center",
+            "grenade_aim_crouch_moving_aim_uvert_left",
+            "grenade_aim_crouch_moving_aim_mid_right",
+            "grenade_aim_crouch_moving_aim_mid_center",
+            "grenade_aim_crouch_moving_aim_mid_left",
+            "grenade_aim_crouch_moving_aim_dvert_right",
+            "grenade_aim_crouch_moving_aim_dvert_center",
+            "grenade_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_idle",
+          "clips": [
+            "c4_aim_idle_aim_uvert_right",
+            "c4_aim_idle_aim_uvert_center",
+            "c4_aim_idle_aim_uvert_left",
+            "c4_aim_idle_aim_mid_right",
+            "c4_aim_idle_aim_mid_center",
+            "c4_aim_idle_aim_mid_left",
+            "c4_aim_idle_aim_dvert_right",
+            "c4_aim_idle_aim_dvert_center",
+            "c4_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_walk",
+          "clips": [
+            "c4_aim_walk_aim_uvert_right",
+            "c4_aim_walk_aim_uvert_center",
+            "c4_aim_walk_aim_uvert_left",
+            "c4_aim_walk_aim_mid_right",
+            "c4_aim_walk_aim_mid_center",
+            "c4_aim_walk_aim_mid_left",
+            "c4_aim_walk_aim_dvert_right",
+            "c4_aim_walk_aim_dvert_center",
+            "c4_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_run",
+          "clips": [
+            "c4_aim_run_aim_uvert_right",
+            "c4_aim_run_aim_uvert_center",
+            "c4_aim_run_aim_uvert_left",
+            "c4_aim_run_aim_mid_right",
+            "c4_aim_run_aim_mid_center",
+            "c4_aim_run_aim_mid_left",
+            "c4_aim_run_aim_dvert_right",
+            "c4_aim_run_aim_dvert_center",
+            "c4_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_crouch_idle",
+          "clips": [
+            "c4_aim_crouch_idle_aim_uvert_right",
+            "c4_aim_crouch_idle_aim_uvert_center",
+            "c4_aim_crouch_idle_aim_uvert_left",
+            "c4_aim_crouch_idle_aim_mid_right",
+            "c4_aim_crouch_idle_aim_mid_center",
+            "c4_aim_crouch_idle_aim_mid_left",
+            "c4_aim_crouch_idle_aim_dvert_right",
+            "c4_aim_crouch_idle_aim_dvert_center",
+            "c4_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_crouch_moving",
+          "clips": [
+            "c4_aim_crouch_moving_aim_uvert_right",
+            "c4_aim_crouch_moving_aim_uvert_center",
+            "c4_aim_crouch_moving_aim_uvert_left",
+            "c4_aim_crouch_moving_aim_mid_right",
+            "c4_aim_crouch_moving_aim_mid_center",
+            "c4_aim_crouch_moving_aim_mid_left",
+            "c4_aim_crouch_moving_aim_dvert_right",
+            "c4_aim_crouch_moving_aim_dvert_center",
+            "c4_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        }
+      ]
+    },
+    {
+      "model": "t_leet",
+      "groups": [
+        {
+          "name": "rifle_aim_idle",
+          "clips": [
+            "rifle_aim_idle_aim_uvert_right",
+            "rifle_aim_idle_aim_uvert_center",
+            "rifle_aim_idle_aim_uvert_left",
+            "rifle_aim_idle_aim_mid_right",
+            "rifle_aim_idle_aim_mid_center",
+            "rifle_aim_idle_aim_mid_left",
+            "rifle_aim_idle_aim_dvert_right",
+            "rifle_aim_idle_aim_dvert_center",
+            "rifle_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "rifle_aim_walk",
+          "clips": [
+            "rifle_aim_walk_aim_uvert_right",
+            "rifle_aim_walk_aim_uvert_center",
+            "rifle_aim_walk_aim_uvert_left",
+            "rifle_aim_walk_aim_mid_right",
+            "rifle_aim_walk_aim_mid_center",
+            "rifle_aim_walk_aim_mid_left",
+            "rifle_aim_walk_aim_dvert_right",
+            "rifle_aim_walk_aim_dvert_center",
+            "rifle_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "rifle_aim_run",
+          "clips": [
+            "rifle_aim_run_aim_uvert_right",
+            "rifle_aim_run_aim_uvert_center",
+            "rifle_aim_run_aim_uvert_left",
+            "rifle_aim_run_aim_mid_right",
+            "rifle_aim_run_aim_mid_center",
+            "rifle_aim_run_aim_mid_left",
+            "rifle_aim_run_aim_dvert_right",
+            "rifle_aim_run_aim_dvert_center",
+            "rifle_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "rifle_aim_crouch_idle",
+          "clips": [
+            "rifle_aim_crouch_idle_aim_uvert_right",
+            "rifle_aim_crouch_idle_aim_uvert_center",
+            "rifle_aim_crouch_idle_aim_uvert_left",
+            "rifle_aim_crouch_idle_aim_mid_right",
+            "rifle_aim_crouch_idle_aim_mid_center",
+            "rifle_aim_crouch_idle_aim_mid_left",
+            "rifle_aim_crouch_idle_aim_dvert_right",
+            "rifle_aim_crouch_idle_aim_dvert_center",
+            "rifle_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "rifle_aim_crouch_moving",
+          "clips": [
+            "rifle_aim_crouch_moving_aim_uvert_right",
+            "rifle_aim_crouch_moving_aim_uvert_center",
+            "rifle_aim_crouch_moving_aim_uvert_left",
+            "rifle_aim_crouch_moving_aim_mid_right",
+            "rifle_aim_crouch_moving_aim_mid_center",
+            "rifle_aim_crouch_moving_aim_mid_left",
+            "rifle_aim_crouch_moving_aim_dvert_right",
+            "rifle_aim_crouch_moving_aim_dvert_center",
+            "rifle_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_idle",
+          "clips": [
+            "pistol_aim_idle_aim_uvert_right",
+            "pistol_aim_idle_aim_uvert_center",
+            "pistol_aim_idle_aim_uvert_left",
+            "pistol_aim_idle_aim_mid_right",
+            "pistol_aim_idle_aim_mid_center",
+            "pistol_aim_idle_aim_mid_left",
+            "pistol_aim_idle_aim_dvert_right",
+            "pistol_aim_idle_aim_dvert_center",
+            "pistol_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_walk",
+          "clips": [
+            "pistol_aim_walk_aim_uvert_right",
+            "pistol_aim_walk_aim_uvert_center",
+            "pistol_aim_walk_aim_uvert_left",
+            "pistol_aim_walk_aim_mid_right",
+            "pistol_aim_walk_aim_mid_center",
+            "pistol_aim_walk_aim_mid_left",
+            "pistol_aim_walk_aim_dvert_right",
+            "pistol_aim_walk_aim_dvert_center",
+            "pistol_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_run",
+          "clips": [
+            "pistol_aim_run_aim_uvert_right",
+            "pistol_aim_run_aim_uvert_center",
+            "pistol_aim_run_aim_uvert_left",
+            "pistol_aim_run_aim_mid_right",
+            "pistol_aim_run_aim_mid_center",
+            "pistol_aim_run_aim_mid_left",
+            "pistol_aim_run_aim_dvert_right",
+            "pistol_aim_run_aim_dvert_center",
+            "pistol_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_crouch_idle",
+          "clips": [
+            "pistol_aim_crouch_idle_aim_uvert_right",
+            "pistol_aim_crouch_idle_aim_uvert_center",
+            "pistol_aim_crouch_idle_aim_uvert_left",
+            "pistol_aim_crouch_idle_aim_mid_right",
+            "pistol_aim_crouch_idle_aim_mid_center",
+            "pistol_aim_crouch_idle_aim_mid_left",
+            "pistol_aim_crouch_idle_aim_dvert_right",
+            "pistol_aim_crouch_idle_aim_dvert_center",
+            "pistol_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "pistol_aim_crouch_moving",
+          "clips": [
+            "pistol_aim_crouch_moving_aim_uvert_right",
+            "pistol_aim_crouch_moving_aim_uvert_center",
+            "pistol_aim_crouch_moving_aim_uvert_left",
+            "pistol_aim_crouch_moving_aim_mid_right",
+            "pistol_aim_crouch_moving_aim_mid_center",
+            "pistol_aim_crouch_moving_aim_mid_left",
+            "pistol_aim_crouch_moving_aim_dvert_right",
+            "pistol_aim_crouch_moving_aim_dvert_center",
+            "pistol_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_idle",
+          "clips": [
+            "sniper_aim_idle_aim_uvert_right",
+            "sniper_aim_idle_aim_uvert_center",
+            "sniper_aim_idle_aim_uvert_left",
+            "sniper_aim_idle_aim_mid_right",
+            "sniper_aim_idle_aim_mid_center",
+            "sniper_aim_idle_aim_mid_left",
+            "sniper_aim_idle_aim_dvert_right",
+            "sniper_aim_idle_aim_dvert_center",
+            "sniper_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_walk",
+          "clips": [
+            "sniper_aim_walk_aim_uvert_right",
+            "sniper_aim_walk_aim_uvert_center",
+            "sniper_aim_walk_aim_uvert_left",
+            "sniper_aim_walk_aim_mid_right",
+            "sniper_aim_walk_aim_mid_center",
+            "sniper_aim_walk_aim_mid_left",
+            "sniper_aim_walk_aim_dvert_right",
+            "sniper_aim_walk_aim_dvert_center",
+            "sniper_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_run",
+          "clips": [
+            "sniper_aim_run_aim_uvert_right",
+            "sniper_aim_run_aim_uvert_center",
+            "sniper_aim_run_aim_uvert_left",
+            "sniper_aim_run_aim_mid_right",
+            "sniper_aim_run_aim_mid_center",
+            "sniper_aim_run_aim_mid_left",
+            "sniper_aim_run_aim_dvert_right",
+            "sniper_aim_run_aim_dvert_center",
+            "sniper_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_crouch_idle",
+          "clips": [
+            "sniper_aim_crouch_idle_aim_uvert_right",
+            "sniper_aim_crouch_idle_aim_uvert_center",
+            "sniper_aim_crouch_idle_aim_uvert_left",
+            "sniper_aim_crouch_idle_aim_mid_right",
+            "sniper_aim_crouch_idle_aim_mid_center",
+            "sniper_aim_crouch_idle_aim_mid_left",
+            "sniper_aim_crouch_idle_aim_dvert_right",
+            "sniper_aim_crouch_idle_aim_dvert_center",
+            "sniper_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "sniper_aim_crouch_moving",
+          "clips": [
+            "sniper_aim_crouch_moving_aim_uvert_right",
+            "sniper_aim_crouch_moving_aim_uvert_center",
+            "sniper_aim_crouch_moving_aim_uvert_left",
+            "sniper_aim_crouch_moving_aim_mid_right",
+            "sniper_aim_crouch_moving_aim_mid_center",
+            "sniper_aim_crouch_moving_aim_mid_left",
+            "sniper_aim_crouch_moving_aim_dvert_right",
+            "sniper_aim_crouch_moving_aim_dvert_center",
+            "sniper_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_idle",
+          "clips": [
+            "shotgun_aim_idle_aim_uvert_right",
+            "shotgun_aim_idle_aim_uvert_center",
+            "shotgun_aim_idle_aim_uvert_left",
+            "shotgun_aim_idle_aim_mid_right",
+            "shotgun_aim_idle_aim_mid_center",
+            "shotgun_aim_idle_aim_mid_left",
+            "shotgun_aim_idle_aim_dvert_right",
+            "shotgun_aim_idle_aim_dvert_center",
+            "shotgun_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_walk",
+          "clips": [
+            "shotgun_aim_walk_aim_uvert_right",
+            "shotgun_aim_walk_aim_uvert_center",
+            "shotgun_aim_walk_aim_uvert_left",
+            "shotgun_aim_walk_aim_mid_right",
+            "shotgun_aim_walk_aim_mid_center",
+            "shotgun_aim_walk_aim_mid_left",
+            "shotgun_aim_walk_aim_dvert_right",
+            "shotgun_aim_walk_aim_dvert_center",
+            "shotgun_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_run",
+          "clips": [
+            "shotgun_aim_run_aim_uvert_right",
+            "shotgun_aim_run_aim_uvert_center",
+            "shotgun_aim_run_aim_uvert_left",
+            "shotgun_aim_run_aim_mid_right",
+            "shotgun_aim_run_aim_mid_center",
+            "shotgun_aim_run_aim_mid_left",
+            "shotgun_aim_run_aim_dvert_right",
+            "shotgun_aim_run_aim_dvert_center",
+            "shotgun_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_crouch_idle",
+          "clips": [
+            "shotgun_aim_crouch_idle_aim_uvert_right",
+            "shotgun_aim_crouch_idle_aim_uvert_center",
+            "shotgun_aim_crouch_idle_aim_uvert_left",
+            "shotgun_aim_crouch_idle_aim_mid_right",
+            "shotgun_aim_crouch_idle_aim_mid_center",
+            "shotgun_aim_crouch_idle_aim_mid_left",
+            "shotgun_aim_crouch_idle_aim_dvert_right",
+            "shotgun_aim_crouch_idle_aim_dvert_center",
+            "shotgun_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "shotgun_aim_crouch_moving",
+          "clips": [
+            "shotgun_aim_crouch_moving_aim_uvert_right",
+            "shotgun_aim_crouch_moving_aim_uvert_center",
+            "shotgun_aim_crouch_moving_aim_uvert_left",
+            "shotgun_aim_crouch_moving_aim_mid_right",
+            "shotgun_aim_crouch_moving_aim_mid_center",
+            "shotgun_aim_crouch_moving_aim_mid_left",
+            "shotgun_aim_crouch_moving_aim_dvert_right",
+            "shotgun_aim_crouch_moving_aim_dvert_center",
+            "shotgun_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_idle",
+          "clips": [
+            "smg_aim_idle_aim_uvert_right",
+            "smg_aim_idle_aim_uvert_center",
+            "smg_aim_idle_aim_uvert_left",
+            "smg_aim_idle_aim_mid_right",
+            "smg_aim_idle_aim_mid_center",
+            "smg_aim_idle_aim_mid_left",
+            "smg_aim_idle_aim_dvert_right",
+            "smg_aim_idle_aim_dvert_center",
+            "smg_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_walk",
+          "clips": [
+            "smg_aim_walk_aim_uvert_right",
+            "smg_aim_walk_aim_uvert_center",
+            "smg_aim_walk_aim_uvert_left",
+            "smg_aim_walk_aim_mid_right",
+            "smg_aim_walk_aim_mid_center",
+            "smg_aim_walk_aim_mid_left",
+            "smg_aim_walk_aim_dvert_right",
+            "smg_aim_walk_aim_dvert_center",
+            "smg_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_run",
+          "clips": [
+            "smg_aim_run_aim_uvert_right",
+            "smg_aim_run_aim_uvert_center",
+            "smg_aim_run_aim_uvert_left",
+            "smg_aim_run_aim_mid_right",
+            "smg_aim_run_aim_mid_center",
+            "smg_aim_run_aim_mid_left",
+            "smg_aim_run_aim_dvert_right",
+            "smg_aim_run_aim_dvert_center",
+            "smg_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_crouch_idle",
+          "clips": [
+            "smg_aim_crouch_idle_aim_uvert_right",
+            "smg_aim_crouch_idle_aim_uvert_center",
+            "smg_aim_crouch_idle_aim_uvert_left",
+            "smg_aim_crouch_idle_aim_mid_right",
+            "smg_aim_crouch_idle_aim_mid_center",
+            "smg_aim_crouch_idle_aim_mid_left",
+            "smg_aim_crouch_idle_aim_dvert_right",
+            "smg_aim_crouch_idle_aim_dvert_center",
+            "smg_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "smg_aim_crouch_moving",
+          "clips": [
+            "smg_aim_crouch_moving_aim_uvert_right",
+            "smg_aim_crouch_moving_aim_uvert_center",
+            "smg_aim_crouch_moving_aim_uvert_left",
+            "smg_aim_crouch_moving_aim_mid_right",
+            "smg_aim_crouch_moving_aim_mid_center",
+            "smg_aim_crouch_moving_aim_mid_left",
+            "smg_aim_crouch_moving_aim_dvert_right",
+            "smg_aim_crouch_moving_aim_dvert_center",
+            "smg_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_idle",
+          "clips": [
+            "heavy_aim_idle_aim_uvert_right",
+            "heavy_aim_idle_aim_uvert_center",
+            "heavy_aim_idle_aim_uvert_left",
+            "heavy_aim_idle_aim_mid_right",
+            "heavy_aim_idle_aim_mid_center",
+            "heavy_aim_idle_aim_mid_left",
+            "heavy_aim_idle_aim_dvert_right",
+            "heavy_aim_idle_aim_dvert_center",
+            "heavy_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_walk",
+          "clips": [
+            "heavy_aim_walk_aim_uvert_right",
+            "heavy_aim_walk_aim_uvert_center",
+            "heavy_aim_walk_aim_uvert_left",
+            "heavy_aim_walk_aim_mid_right",
+            "heavy_aim_walk_aim_mid_center",
+            "heavy_aim_walk_aim_mid_left",
+            "heavy_aim_walk_aim_dvert_right",
+            "heavy_aim_walk_aim_dvert_center",
+            "heavy_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_run",
+          "clips": [
+            "heavy_aim_run_aim_uvert_right",
+            "heavy_aim_run_aim_uvert_center",
+            "heavy_aim_run_aim_uvert_left",
+            "heavy_aim_run_aim_mid_right",
+            "heavy_aim_run_aim_mid_center",
+            "heavy_aim_run_aim_mid_left",
+            "heavy_aim_run_aim_dvert_right",
+            "heavy_aim_run_aim_dvert_center",
+            "heavy_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_crouch_idle",
+          "clips": [
+            "heavy_aim_crouch_idle_aim_uvert_right",
+            "heavy_aim_crouch_idle_aim_uvert_center",
+            "heavy_aim_crouch_idle_aim_uvert_left",
+            "heavy_aim_crouch_idle_aim_mid_right",
+            "heavy_aim_crouch_idle_aim_mid_center",
+            "heavy_aim_crouch_idle_aim_mid_left",
+            "heavy_aim_crouch_idle_aim_dvert_right",
+            "heavy_aim_crouch_idle_aim_dvert_center",
+            "heavy_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "heavy_aim_crouch_moving",
+          "clips": [
+            "heavy_aim_crouch_moving_aim_uvert_right",
+            "heavy_aim_crouch_moving_aim_uvert_center",
+            "heavy_aim_crouch_moving_aim_uvert_left",
+            "heavy_aim_crouch_moving_aim_mid_right",
+            "heavy_aim_crouch_moving_aim_mid_center",
+            "heavy_aim_crouch_moving_aim_mid_left",
+            "heavy_aim_crouch_moving_aim_dvert_right",
+            "heavy_aim_crouch_moving_aim_dvert_center",
+            "heavy_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_idle",
+          "clips": [
+            "knife_aim_idle_aim_uvert_right",
+            "knife_aim_idle_aim_uvert_center",
+            "knife_aim_idle_aim_uvert_left",
+            "knife_aim_idle_aim_mid_right",
+            "knife_aim_idle_aim_mid_center",
+            "knife_aim_idle_aim_mid_left",
+            "knife_aim_idle_aim_dvert_right",
+            "knife_aim_idle_aim_dvert_center",
+            "knife_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_walk",
+          "clips": [
+            "knife_aim_walk_aim_uvert_right",
+            "knife_aim_walk_aim_uvert_center",
+            "knife_aim_walk_aim_uvert_left",
+            "knife_aim_walk_aim_mid_right",
+            "knife_aim_walk_aim_mid_center",
+            "knife_aim_walk_aim_mid_left",
+            "knife_aim_walk_aim_dvert_right",
+            "knife_aim_walk_aim_dvert_center",
+            "knife_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_run",
+          "clips": [
+            "knife_aim_run_aim_uvert_right",
+            "knife_aim_run_aim_uvert_center",
+            "knife_aim_run_aim_uvert_left",
+            "knife_aim_run_aim_mid_right",
+            "knife_aim_run_aim_mid_center",
+            "knife_aim_run_aim_mid_left",
+            "knife_aim_run_aim_dvert_right",
+            "knife_aim_run_aim_dvert_center",
+            "knife_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_crouch_idle",
+          "clips": [
+            "knife_aim_crouch_idle_aim_uvert_right",
+            "knife_aim_crouch_idle_aim_uvert_center",
+            "knife_aim_crouch_idle_aim_uvert_left",
+            "knife_aim_crouch_idle_aim_mid_right",
+            "knife_aim_crouch_idle_aim_mid_center",
+            "knife_aim_crouch_idle_aim_mid_left",
+            "knife_aim_crouch_idle_aim_dvert_right",
+            "knife_aim_crouch_idle_aim_dvert_center",
+            "knife_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "knife_aim_crouch_moving",
+          "clips": [
+            "knife_aim_crouch_moving_aim_uvert_right",
+            "knife_aim_crouch_moving_aim_uvert_center",
+            "knife_aim_crouch_moving_aim_uvert_left",
+            "knife_aim_crouch_moving_aim_mid_right",
+            "knife_aim_crouch_moving_aim_mid_center",
+            "knife_aim_crouch_moving_aim_mid_left",
+            "knife_aim_crouch_moving_aim_dvert_right",
+            "knife_aim_crouch_moving_aim_dvert_center",
+            "knife_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_idle",
+          "clips": [
+            "grenade_aim_idle_aim_uvert_right",
+            "grenade_aim_idle_aim_uvert_center",
+            "grenade_aim_idle_aim_uvert_left",
+            "grenade_aim_idle_aim_mid_right",
+            "grenade_aim_idle_aim_mid_center",
+            "grenade_aim_idle_aim_mid_left",
+            "grenade_aim_idle_aim_dvert_right",
+            "grenade_aim_idle_aim_dvert_center",
+            "grenade_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_walk",
+          "clips": [
+            "grenade_aim_walk_aim_uvert_right",
+            "grenade_aim_walk_aim_uvert_center",
+            "grenade_aim_walk_aim_uvert_left",
+            "grenade_aim_walk_aim_mid_right",
+            "grenade_aim_walk_aim_mid_center",
+            "grenade_aim_walk_aim_mid_left",
+            "grenade_aim_walk_aim_dvert_right",
+            "grenade_aim_walk_aim_dvert_center",
+            "grenade_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_run",
+          "clips": [
+            "grenade_aim_run_aim_uvert_right",
+            "grenade_aim_run_aim_uvert_center",
+            "grenade_aim_run_aim_uvert_left",
+            "grenade_aim_run_aim_mid_right",
+            "grenade_aim_run_aim_mid_center",
+            "grenade_aim_run_aim_mid_left",
+            "grenade_aim_run_aim_dvert_right",
+            "grenade_aim_run_aim_dvert_center",
+            "grenade_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_crouch_idle",
+          "clips": [
+            "grenade_aim_crouch_idle_aim_uvert_right",
+            "grenade_aim_crouch_idle_aim_uvert_center",
+            "grenade_aim_crouch_idle_aim_uvert_left",
+            "grenade_aim_crouch_idle_aim_mid_right",
+            "grenade_aim_crouch_idle_aim_mid_center",
+            "grenade_aim_crouch_idle_aim_mid_left",
+            "grenade_aim_crouch_idle_aim_dvert_right",
+            "grenade_aim_crouch_idle_aim_dvert_center",
+            "grenade_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "grenade_aim_crouch_moving",
+          "clips": [
+            "grenade_aim_crouch_moving_aim_uvert_right",
+            "grenade_aim_crouch_moving_aim_uvert_center",
+            "grenade_aim_crouch_moving_aim_uvert_left",
+            "grenade_aim_crouch_moving_aim_mid_right",
+            "grenade_aim_crouch_moving_aim_mid_center",
+            "grenade_aim_crouch_moving_aim_mid_left",
+            "grenade_aim_crouch_moving_aim_dvert_right",
+            "grenade_aim_crouch_moving_aim_dvert_center",
+            "grenade_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_idle",
+          "clips": [
+            "c4_aim_idle_aim_uvert_right",
+            "c4_aim_idle_aim_uvert_center",
+            "c4_aim_idle_aim_uvert_left",
+            "c4_aim_idle_aim_mid_right",
+            "c4_aim_idle_aim_mid_center",
+            "c4_aim_idle_aim_mid_left",
+            "c4_aim_idle_aim_dvert_right",
+            "c4_aim_idle_aim_dvert_center",
+            "c4_aim_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_walk",
+          "clips": [
+            "c4_aim_walk_aim_uvert_right",
+            "c4_aim_walk_aim_uvert_center",
+            "c4_aim_walk_aim_uvert_left",
+            "c4_aim_walk_aim_mid_right",
+            "c4_aim_walk_aim_mid_center",
+            "c4_aim_walk_aim_mid_left",
+            "c4_aim_walk_aim_dvert_right",
+            "c4_aim_walk_aim_dvert_center",
+            "c4_aim_walk_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_run",
+          "clips": [
+            "c4_aim_run_aim_uvert_right",
+            "c4_aim_run_aim_uvert_center",
+            "c4_aim_run_aim_uvert_left",
+            "c4_aim_run_aim_mid_right",
+            "c4_aim_run_aim_mid_center",
+            "c4_aim_run_aim_mid_left",
+            "c4_aim_run_aim_dvert_right",
+            "c4_aim_run_aim_dvert_center",
+            "c4_aim_run_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_crouch_idle",
+          "clips": [
+            "c4_aim_crouch_idle_aim_uvert_right",
+            "c4_aim_crouch_idle_aim_uvert_center",
+            "c4_aim_crouch_idle_aim_uvert_left",
+            "c4_aim_crouch_idle_aim_mid_right",
+            "c4_aim_crouch_idle_aim_mid_center",
+            "c4_aim_crouch_idle_aim_mid_left",
+            "c4_aim_crouch_idle_aim_dvert_right",
+            "c4_aim_crouch_idle_aim_dvert_center",
+            "c4_aim_crouch_idle_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        },
+        {
+          "name": "c4_aim_crouch_moving",
+          "clips": [
+            "c4_aim_crouch_moving_aim_uvert_right",
+            "c4_aim_crouch_moving_aim_uvert_center",
+            "c4_aim_crouch_moving_aim_uvert_left",
+            "c4_aim_crouch_moving_aim_mid_right",
+            "c4_aim_crouch_moving_aim_mid_center",
+            "c4_aim_crouch_moving_aim_mid_left",
+            "c4_aim_crouch_moving_aim_dvert_right",
+            "c4_aim_crouch_moving_aim_dvert_center",
+            "c4_aim_crouch_moving_aim_dvert_left"
+          ],
+          "yaw": [
+            -60.0,
+            0.0,
+            60.0
+          ],
+          "pitch": [
+            -90.0,
+            0.0,
+            90.0
+          ]
+        }
+      ]
+    }
+  ]
+}

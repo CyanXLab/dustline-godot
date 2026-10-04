@@ -1,0 +1,18 @@
+{
+  "origin": [
+    -0.69004942,
+    -209.0674,
+    -12.1442988
+  ],
+  "scale": 16.0,
+  "source": "de_dust2 sky_camera and original unchanged BC1 texture mip chain",
+  "skyname": "nukeblank",
+  "textureResource": "SourceContent/sky_original_bc1",
+  "textureWidth": 32,
+  "textureHeight": 32,
+  "textureMipCount": 6,
+  "textureBlocksSha256": "f45019273ef41bcbe4ccfe9b6c42215d0d63ed1ef102de9419456a738ede1e75",
+  "fogStart": -0.2286,
+  "fogEnd": 228.6,
+  "fogMaxDensity": 0.6
+}
