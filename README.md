@@ -62,3 +62,4 @@ tests/       冒烟与诊断测试（godot --headless --script res://tests/smoke
 - 燃烧蔓延（InfernoState 网格火）简化为定域火圈
 - 动画命中盒简化为标准 CS 胶囊组（蹲伏偏移）
 - 穿墙最大出口距离、跳投等细节参数与原作可能有 ±5% 偏差
+- 原版 cc_dust2 颜色分级 LUT 在提取资产中无名称映射，暂以线性 tonemap 回退（其余贴图全部就位）
