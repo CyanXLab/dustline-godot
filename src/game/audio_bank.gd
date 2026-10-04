@@ -5,6 +5,10 @@ extends Node
 var _streams: Dictionary = {}      # name → AudioStream
 var _weapon_shots: Dictionary = {} # weapon key → [streams]
 var _rng := RandomNumberGenerator.new()
+var _disabled := false             # headless/无音频环境短路
+var _voices3d: Array = []          # 活跃 3D 音源追踪 (TTL 兑底)
+const MAX_VOICES_3D := 32
+const VOICE_TTL_MS := 6000
 
 const EXTRACTED := "res://assets/sfx_extracted/"
 const SYNTH := "res://assets/sfx/"
@@ -20,8 +24,24 @@ const BUCKETS := {
 
 func _ready() -> void:
         _rng.randomize()
+        # headless 导出/服务器/无音频驱动环境: 音频线程可能不混音, finished 永不触发
+        # → 播放器节点无限堆积。短路播放并启用 TTL 兑底。
+        _disabled = DisplayServer.get_name() == "headless"
         _load_all()
         _map_weapons()
+
+func _process(_delta: float) -> void:
+        # TTL 兑底: 防止任何环境下播放器泄漏 (finished 信号不可靠时)
+        if _voices3d.is_empty():
+                return
+        var now := Time.get_ticks_msec()
+        var keep: Array = []
+        for v in _voices3d:
+                if is_instance_valid(v) and now - v.get_meta("born_ms", now) < VOICE_TTL_MS and v.playing:
+                        keep.append(v)
+                elif is_instance_valid(v):
+                        v.queue_free()
+        _voices3d = keep
 
 func _load_all() -> void:
         var manifest_path := EXTRACTED + "manifest.json"
@@ -69,6 +89,8 @@ func _pick(bucket: String) -> String:
         return lst[_rng.randi_range(0, lst.size() - 1)]
 
 func play_event(event: String, pos: Vector3, world: Node3D) -> void:
+        if _disabled or world == null:
+                return
         var stream_key := ""
         # 武器枪声: shot_<weapon_key>
         if event.begins_with("shot_"):
@@ -106,6 +128,11 @@ func play_event(event: String, pos: Vector3, world: Node3D) -> void:
                         stream_key = _pick("misc")
         if stream_key == "" or not _streams.has(stream_key):
                 return
+        # 音池上限: 超出则回收最旧音源 (防止瞬发洪峰)
+        while _voices3d.size() >= MAX_VOICES_3D:
+                var old = _voices3d.pop_front()
+                if is_instance_valid(old):
+                        old.queue_free()
         var player := AudioStreamPlayer3D.new()
         player.stream = _streams[stream_key]
         player.volume_db = _volume_for(event)
@@ -114,7 +141,9 @@ func play_event(event: String, pos: Vector3, world: Node3D) -> void:
         player.pitch_scale = _rng.randf_range(0.94, 1.06)
         world.add_child(player)
         player.global_position = pos
-        player.finished.connect(player.queue_free)
+        player.set_meta("born_ms", Time.get_ticks_msec())
+        _voices3d.append(player)
+        player.finished.connect(func(): player.queue_free())
         player.play()
 
 func _volume_for(event: String) -> float:
@@ -125,10 +154,14 @@ func _volume_for(event: String) -> float:
         return -6.0
 
 func play_ui(event: String) -> void:
+        if _disabled:
+                return
         var key := "synth_" + event if _streams.has("synth_" + event) else _pick("ui")
         if key != "" and _streams.has(key):
                 var p := AudioStreamPlayer.new()
                 p.stream = _streams[key]
                 add_child(p)
+                p.set_meta("born_ms", Time.get_ticks_msec())
+                _voices3d.append(p)   # 共用 TTL 兑底追踪
                 p.finished.connect(p.queue_free)
                 p.play()

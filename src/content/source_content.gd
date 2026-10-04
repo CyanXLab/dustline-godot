@@ -62,8 +62,13 @@ func tex(hash16: String) -> Texture2D:
                 return null
         if _tex_cache.has(hash16):
                 return _tex_cache[hash16]
-        var path := TEXDIR + "/" + hash16 + ".png"
-        var t: Texture2D = load(path) if ResourceLoader.exists(path) else null
+        # 原版转换纹理为 Godot 原生 .ctex (DXT5/BPTC+mipmaps, 无损); .png 仅作回退
+        var t: Texture2D = null
+        for ext in [".ctex", ".png"]:
+                var path: String = TEXDIR + "/" + hash16 + ext
+                if ResourceLoader.exists(path):
+                        t = load(path)
+                        break
         if t == null and not _missing_warned.has(hash16):
                 _missing_warned[hash16] = true
                 push_warning("贴图缺失: " + hash16)
